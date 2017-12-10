@@ -1,6 +1,15 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Bachelor of Communication Systems
+  uni: Ecole Polytechnique Federale de Lausanne
+  year: 2015 &mdash; 2018
+  #awards: Quickest to fall asleep
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Special Mathematics Course (Preparatory Year) 
+  uni: Ecole Polytechnique Federale de Lausanne
+  year: 2014 &mdash; 2015
+- degree: International Baccalaureate
+  uni: Ecole Internationale de Geneve
+  year: 2012 &mdash; 2014
+- degree: IGCSE
+  uni: Ecole Internationale de Geneve
+  year: 2010 &mdash; 2012
