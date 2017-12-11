@@ -1,6 +1,6 @@
 # Site settings
 title: "Adrian Guerra Alejos"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "Online resume"
 
 # Build settings
 markdown: kramdown
@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Adrian Guerra Alejos"
-resume_title:                   "Communication Systems Student"
+resume_title:                   "Communication Systems Student at EPFL currently studying abroad at TU Berlin"
 resume_contact_email:           "adrian.guerra@epfl.ch"
 resume_contact_telephone:       "+49 173 47 57 312"
 resume_contact_address:         "Chemin du Vieux-Bois 18, 1292 Chambesy"
 resume_header_contact_info: "Chemin du Vieux-Bois 18, 1292 Chambesy | +49 173 47 57 312 | adrian.guerra@epfl.ch"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+#resume_header_intro: "<p>21 year old student eager to learn and always open to new challenges</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
