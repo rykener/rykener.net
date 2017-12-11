@@ -13,7 +13,7 @@
 
         <!-- You can turn off the avatar in _config.yml by setting to false -->
         {% if site.resume_avatar == 'true' %}
-        <img src="images/avatar.jpg" alt="my photo" class="avatar no-print" itemprop="image">
+        <img src="images/graduation.jpg" alt="my photo" class="avatar no-print" itemprop="image">
         {% endif %}
 
         <!-- Your name is defined in the _config.yml file -->
@@ -80,6 +80,16 @@
           <h4 class="resume-item-details group" itemprop="description">{{ education.degree }} &bull; {{ education.year }}</h4>
           <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards }}</h5>
           <p class="resume-item-copy">{{ education.summary }}</p>
+          {% if education.degree2%}
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree2 }} &bull; {{ education.year2 }}</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards2 }}</h5>
+          <p class="resume-item-copy">{{ education.summary2 }}</p>
+          {% endif %}
+          {% if education.degree3%}
+          <h4 class="resume-item-details group" itemprop="description">{{ education.degree3 }} &bull; {{ education.year3 }}</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ education.awards3 }}</h5>
+          <p class="resume-item-copy">{{ education.summary3 }}</p>
+          {% endif %}
         </div>
         {% endfor %}
       </section>
@@ -221,10 +231,12 @@
       <!-- end Print Social Links -->
       {% endif %}
 
+<!--
       <footer class="page-footer">
         <p class="footer-line">Made by <a href="http://twitter.com/jglovier">@jglovier</a>. Fork me on <a href="https://github.com/jglovier/resume-template">GitHub</a>.</p>
         <p class="footer-line">If this is your live resume, you can modify or remove this part. ;-)</p>
       </footer>
+-->
 
     </div>
 
