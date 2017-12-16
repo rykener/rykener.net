@@ -1,6 +1,7 @@
 # Jobs
 # Springfield Nuclear Power Plant
 - company: Koch Industries Supply & Trading
+  location: Geneva, Switzerland
   position: Quantitative Analyst
   duration: July 2017 &mdash; August 2017
   summary: Contributed to the development and developed programs extracting data from the web, particularly energy operators websites’, to inform traders of market decisions and investment. Moreover, contributed in the development of an HTML5 parser .NET Standard library based on an existing JavaScript parser. #If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
