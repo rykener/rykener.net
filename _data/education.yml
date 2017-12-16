@@ -1,15 +1,17 @@
 # Degree
-- uni: Ecole Polytechnique Federale de Lausanne
-  degree: Exchange at Technische Universitat Berlin
-  year: 2017 &mdash; 2018
-  degree2: Bachelor of Communication Systems
-  year2: 2015 &mdash; 2018
-  degree3: Special Mathematics Course (Preparatory Year) 
-  year3: 2014 &mdash; 2015
+- institution: Ecole Polytechnique Fédérale de Lausanne
+  degrees:
+  - title: Exchange at Technische Universität Berlin
+    years: 2017 &mdash; 2018
+  - title: Bachelor of Communication Systems
+    years: 2015 &mdash; 2018
+  - title: Special Mathematics Course (Preparatory Year)
+    years: 2014 &mdash; 2015
   #awards: Quickest to fall asleep
-  #summary: If you had any meaningful roles at college, feel free to write about them here  
-- uni: Ecole Internationale de Geneve
-  degree: International Baccalaureate
-  year: 2012 &mdash; 2014
-  degree2: IGCSE
-  year2: 2010 &mdash; 2012
+  #summary: If you had any meaningful roles at college, feel free to write about them here
+- institution: Ecole Internationale de Genève
+  degrees:
+  - title: International Baccalaureate (IB) Bilingual Diploma
+    years: 2012 &mdash; 2014
+  - title: International General Certificate of Secondary Education (IGCSE)
+    years: 2010 &mdash; 2012
