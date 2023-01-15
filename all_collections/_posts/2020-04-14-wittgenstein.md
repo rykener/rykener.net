@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Wittgenstein Finding the Meaning of a Word
+title: "Wittgenstein: Finding the Meaning of a Word"
 date: 2020-04-14 10:18:00
-categories: [philosophy]
+categories: [philosophy, language]
+thumbnail: "https://miro.medium.com/max/1400/0*sNdbwsfmQpQbFW4i.webp"
 ---
 
 A brief overview of the Socratic method and Wittgenstein’s philosophy of language to define words.

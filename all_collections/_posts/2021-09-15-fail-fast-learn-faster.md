@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 7 lessons from a student-entrepreneur
+title: Fail fast, learn faster.
 date: 2021-12-12 10:18:00
-categories: [life experience, business]
+categories: [career, entrepreneurship]
+thumbnail: "https://miro.medium.com/max/1400/1*HAO92dRNMxpSx_p5LIYCSw.webp"
 ---
 
 *Two years after taking the initiative of launching a startup, I kneel down and surrender my sword to begin looking at new career opportunities. The ride was crazy. Ecstatic moments repeatedly turned into emotional wreckages, only for new impulses to push me forward again. Despite the final outcome, the lessons were invaluable. Today, I feel more resilient than ever to face the next challenges that life will throw at me.*
