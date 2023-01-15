@@ -15,8 +15,8 @@ Naivety, curiosity and a strong desire to express my creativity pushed me toward
 
 I started brainstorming several ideas, but eventually settled for the Vivino of CBD. My dad was becoming quite a wine expert thanks to Vivino, while a friend was set to start a job at a CBD business. I tried CBD for sleep, stress, muscle pain and even as part of my spiritual practices. I discovered how much science there was to the cannabis plant, but how little was being presented to the public.
 
+<!-- Add Photo -->
 
-Photo by Elsa Olofsson on Unsplash
 University peers recommended me a startup course given by the Swiss Innovation Agency. Participants had to pitch their idea hoping to work on it throughout the course. Selected projects would have the opportunity to recruit team members and have coaches regularly provide them feedback. One of which would become my mentor and business partner: Haider Alleg.
 
 But things could have gone very differently from the start. Haider missed the round of introduction between the coaches and the startups. A couple of weeks later, I received a long thread of emails between Haider and another coach. Haider had been trying to reach me, but the messages had ended up in the wrong mailbox.
