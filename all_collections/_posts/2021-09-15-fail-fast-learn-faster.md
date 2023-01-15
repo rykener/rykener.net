@@ -25,9 +25,9 @@ When we finally managed to schedule our first in-person meeting, he came over an
 
 Unfortunately, the excitement didn’t last. Coursework, project deadlines and final year exams were taking more time than expected. On top of that, my team wasn’t helping as much as I would have hoped for. I felt overwhelmed.
 
-Nonetheless, Haider’s input kept us going. His advice was so valuable that sometimes it took me months to realize things he had been saying all along. When the course came to an end, my teammates left the project. Haider couldn’t imagine going forward with no team and no money.
+Nonetheless, Haider’s input kept us going. His advice was so valuable that sometimes it took me months to realize things he had been saying all along. When the course came to an end, my teammates left the project. Haider couldn’t imagine me going forward with no team and no money.
 
-Still, I didn’t feel like it was time to abandon just yet. I started reaching out to friends I thought might be interested by the project. Once I had recruited my first couple of team members, the tables turned: people were coming to me to offer help. We entered our best-ever-yet honeymoon phase. Launching a startup was fun!
+Still, I didn’t feel like it was time to give up just yet. I started reaching out to friends I thought might be interested by the project. Once I had recruited my first couple of team members, the tables turned: people were coming to me to offer help. We entered our best-ever-yet honeymoon phase. Launching a startup was fun!
 
 Everything was hugs and kisses until one day, my friend who wrote blog articles told me that he was quitting. I was devastated, but wasted little time in looking for new potential recruits.
 
