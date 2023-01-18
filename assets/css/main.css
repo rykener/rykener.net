@@ -56,6 +56,10 @@ header .site-title {
   color: var(--text-dm-site-title);
 }
 
+div#centered {
+  text-align: center;
+}
+
 #bio {
   display: flex;
   justify-content: space-between;
