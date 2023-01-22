@@ -6,15 +6,18 @@ categories: [philosophy, language]
 thumbnail: "https://miro.medium.com/max/1400/0*sNdbwsfmQpQbFW4i.webp"
 ---
 
-A brief overview of the Socratic method and Wittgenstein’s philosophy of language to define words.
+*A brief overview of the Socratic method and Wittgenstein’s philosophy of language to define words.*
 
-<!-- add photo -->
-Socrates c. 470–399 BC
+![Socrates](https://miro.medium.com/max/1400/0*sNdbwsfmQpQbFW4i.webp)
+
+<!-- add caption -->
+<!-- Socrates c. 470–399 BC -->
 
 In the Socratic dialogues, Socrates asks many times “What is X?”. X being courage, piety, justice, temperance or wisdom. The protagonists give him instances of these abstracts words as they try to come up with a definition. But Socrates rejects all of them; he always finds a use of the word which does not fit the given definition.
 
 In Euthyphro, for instance, Socrates and Euthyphro attempt to establish a definitive meaning for the word piety. Socrates asks: “What is piety?” Euthyphro replies that piety is what he is doing right now. Socrates rejects this definition, because Euthyphro’s action is merely an example and does not provide the essential characteristic that make pious actions pious. Euthyphro attempts to give four further definitions, but Socrates keeps questioning them (known as the Socratic questioning or Socratic method). Euthyphro ends up running out of patience and leaves Socrates without a clear definition of piety.
 
+![Euthyphro](https://miro.medium.com/max/1200/0*JvZwMoSu7ABRDgQU)
 
 Socrates was seeking a common nature amongst the instances given to him to find a real definition. He believed the common nature justified the use of the common name, that it was unethical to use words if their meaning wasn’t truly known. For instance, one could only be just if one knew the underlying common nature in justice. But neither Socrates nor any of the protagonists of the Socratic dialogues ever manage to find true definitions. The unfinished work suggested philosophy still had much progress to make. In any case, Socrates believed that being aware of his ignorance made him wiser than those who, though ignorant, still claimed knowledge.
 
@@ -28,8 +31,9 @@ Centuries later, Ludwig Wittgenstein would attempt to resume Socrates’ unfinis
 >
 > Voices of Wittgenstein, Waismann & Wittgenstein, 2003, p. 33
 
-<!-- add photo -->
-Ludwig Wittgenstein 1889–1951
+![Wittgenstein](https://miro.medium.com/max/800/0*z-u5VJtjCSKd2xiL.webp)
+<!-- add caption -->
+<!-- Ludwig Wittgenstein 1889–1951 -->
 
 In Philosophical Investigations, he considers instances of the word game to illustrate his point.
 
