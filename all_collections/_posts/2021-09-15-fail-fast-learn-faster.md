@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Fail fast, learn faster.
-date: 2021-12-12 10:18:00
+date: 2021-09-15 10:18:00
 categories: [career, entrepreneurship]
 thumbnail: "https://miro.medium.com/max/1400/1*HAO92dRNMxpSx_p5LIYCSw.webp"
 ---
 
 *Two years after taking the initiative of launching a startup, I kneel down and surrender my sword to begin looking at new career opportunities. The ride was crazy. Ecstatic moments repeatedly turned into emotional wreckages, only for new impulses to push me forward again. Despite the final outcome, the lessons were invaluable. Today, I feel more resilient than ever to face the next challenges that life will throw at me.*
 
+![Surrender](https://miro.medium.com/max/1400/1*HAO92dRNMxpSx_p5LIYCSw.webp)
 
 While following my Master’s at EPFL, I realized how lucky I was to have a startup ecosystem that offered support to entrepreneurial students. University really seemed like the best time to launch a startup. It also motivated me for my studies: I didn’t simply want to get them over with anymore, I wanted to enjoy the experience and stick around a little longer.
 
@@ -15,13 +16,13 @@ Naivety, curiosity and a strong desire to express my creativity pushed me toward
 
 I started brainstorming several ideas, but eventually settled for the Vivino of CBD. My dad was becoming quite a wine expert thanks to Vivino, while a friend was set to start a job at a CBD business. I tried CBD for sleep, stress, muscle pain and even as part of my spiritual practices. I discovered how much science there was to the cannabis plant, but how little was being presented to the public.
 
-<!-- Add Photo -->
+![CBD](https://miro.medium.com/max/1400/0*RapTk4VMeNkn3yNC)
 
 University peers recommended me a startup course given by the Swiss Innovation Agency. Participants had to pitch their idea hoping to work on it throughout the course. Selected projects would have the opportunity to recruit team members and have coaches regularly provide them feedback. One of which would become my mentor and business partner: Haider Alleg.
 
 But things could have gone very differently from the start. Haider missed the round of introduction between the coaches and the startups. A couple of weeks later, I received a long thread of emails between Haider and another coach. Haider had been trying to reach me, but the messages had ended up in the wrong mailbox.
 
-When we finally managed to schedule our first in-person meeting, he came over an hour late. I entered our meeting annoyed, but came out amazed by the momentum he was already giving us. He sent me a duplicate of his Wordpress website for a similar project, which he had invested time and money in. It needed some tweaking, but within a week we could have our minimum viable product ready for launch.
+When we finally managed to schedule our first in-person meeting, he came over an hour late. I entered our meeting annoyed, but came out amazed by the momentum he was already giving us. He sent me a duplicate of his Wordpress website for a similar project, which he had invested time and money in. It needed some tweaking, but within a week we could have our minimum viable product.
 
 Unfortunately, the excitement didn’t last. Coursework, project deadlines and final year exams were taking more time than expected. On top of that, my team wasn’t helping as much as I would have hoped for. I felt overwhelmed.
 
