@@ -8,9 +8,9 @@ thumbnail: "assets/images/socrates.jpeg"
 
 *A brief overview of the Socratic method and Wittgenstein’s philosophy of language to define words.*
 
-In the Socratic dialogues, Socrates asks many times “What is X?”. X being courage, piety, justice, temperance or wisdom. The protagonists give him instances of these abstracts words as they try to come up with a definition. But Socrates rejects all of them; he always finds a use of the word which does not fit the given definition.
+In the Socratic dialogues, Socrates asks many times *“What is X?”*. X being courage, piety, justice, temperance or wisdom. The protagonists give him instances of these abstracts words as they try to come up with a definition. But Socrates rejects all of them; he always finds a use of the word which does not fit the given definition.
 
-In Euthyphro, for instance, Socrates and Euthyphro attempt to establish a definitive meaning for the word piety. Socrates asks: “What is piety?”, to which Euthyphro replies that piety is what he is doing right now. Socrates rejects this definition, because Euthyphro’s action is merely an example and does not provide the essential characteristic that make pious actions pious. Euthyphro attempts to give four further definitions, but Socrates keeps questioning them (known as the Socratic questioning or Socratic method). Euthyphro ends up running out of patience and leaves Socrates without a clear definition of piety.
+In Euthyphro, for instance, Socrates and Euthyphro attempt to establish a definitive meaning for the word piety. Socrates asks: *“What is piety?”*, to which Euthyphro replies that piety is what he is doing right now. Socrates rejects this definition, because Euthyphro’s action is merely an example and does not provide the essential characteristic that make pious actions pious. Euthyphro attempts to give four further definitions, but Socrates keeps questioning them (known as the **Socratic questioning** or **Socratic method**). Euthyphro ends up running out of patience and leaves Socrates without a clear definition of piety.
 
 {:style="text-align:center;"}
 ![Euthyphro](https://miro.medium.com/max/1200/0*JvZwMoSu7ABRDgQU)
@@ -62,7 +62,7 @@ Wittgenstein didn’t think that words corresponded to things. The function and 
 >
 > Philosophical Investigations, Wittgenstein, 1953, p. 6
 
-Wittgenstein saw language merely as a tool used to accomplish everyday goals and activities, which essentially determine a word’s meaning. He called these activities language-games, because the rules of language were like the rules of a game, and saying something was like making a move in a game.
+Wittgenstein saw language merely as a tool used to accomplish everyday goals and activities, which essentially determine a word’s meaning. He called these activities **language-games**, because the rules of language were like the rules of a game, and saying something was like making a move in a game.
 
 > “Here the term “language-game” is meant to bring into prominence the fact that the speaking of language is part of an activity, or of a form of life.”
 >
@@ -74,12 +74,10 @@ While our brains naturally associate pictures to words, even when thinking of ab
 >
 > Philosophical Investigations, Wittgenstein, 1953, p. 48
 
-On the other hand, even if one could find an essential definition of a word, this would not undermine Wittgenstein’s argument. Wittgenstein isn’t necessarily against definitions, because in many cases essential definitions do exist and are even needed, typically in scientific contexts. But he just does not think all words must have an essential definition, so he suggests the concept of family resemblance. This raises the question: How can we know which terms have essential definitions and which do not? Wittgenstein’s claim makes defining a concept easier by lowering the expectations of what is required, but the challenge is to remain precise.
+On the other hand, even if one could find an essential definition of a word, this would not undermine Wittgenstein’s argument. Wittgenstein isn’t necessarily against definitions, because in many cases essential definitions do exist and are even needed, typically in scientific contexts. But he just does not think all words must have an essential definition, so he suggests the concept of family resemblance. This raises the question: *How can we know which terms have essential definitions and which do not?* Wittgenstein’s claim makes defining a concept easier by lowering the expectations of what is required, but the challenge is to remain precise.
 
 Wittgenstein valued clarity more than universal truth, which really made him stand out as a philosopher. Philosophers generally ask why to uncover hidden truths and consider that this is the most profound they can do. Wittgenstein, on the other hand, deemed looking as much profounder and saw it as a great difficulty because one must learn to ignore many preconceptions that cloud our judgment. Wittgenstein claiming that there is no shared constituent in knowledge would typically be reprimanded by most philosophers, particularly Socrates, because he gives up in the search for truth. While Wittgenstein does give valid answers to many of philosophy’s questions, he also inevitably raises further questions, like which terms have essential definitions and which do not. Much like in Socrates’ case, there is still work left to do in this regard. But in response to many of his critics, Wittgenstein would say:
 
 > “The mystical is not how the world is, but that it is.” 
 >
 > Wittgenstein, Tractatus Logico-Philosophicus, 1922
-
-<!-- ![alt](https://picsum.photos/800/300) -->
