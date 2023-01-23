@@ -10,7 +10,7 @@ thumbnail: "assets/images/socrates.jpeg"
 
 In the Socratic dialogues, Socrates asks many times “What is X?”. X being courage, piety, justice, temperance or wisdom. The protagonists give him instances of these abstracts words as they try to come up with a definition. But Socrates rejects all of them; he always finds a use of the word which does not fit the given definition.
 
-In Euthyphro, for instance, Socrates and Euthyphro attempt to establish a definitive meaning for the word piety. Socrates asks: “What is piety?” Euthyphro replies that piety is what he is doing right now. Socrates rejects this definition, because Euthyphro’s action is merely an example and does not provide the essential characteristic that make pious actions pious. Euthyphro attempts to give four further definitions, but Socrates keeps questioning them (known as the Socratic questioning or Socratic method). Euthyphro ends up running out of patience and leaves Socrates without a clear definition of piety.
+In Euthyphro, for instance, Socrates and Euthyphro attempt to establish a definitive meaning for the word piety. Socrates asks: “What is piety?”, to which Euthyphro replies that piety is what he is doing right now. Socrates rejects this definition, because Euthyphro’s action is merely an example and does not provide the essential characteristic that make pious actions pious. Euthyphro attempts to give four further definitions, but Socrates keeps questioning them (known as the Socratic questioning or Socratic method). Euthyphro ends up running out of patience and leaves Socrates without a clear definition of piety.
 
 {:style="text-align:center;"}
 ![Euthyphro](https://miro.medium.com/max/1200/0*JvZwMoSu7ABRDgQU)
@@ -50,11 +50,11 @@ In Philosophical Investigations, he considers instances of the word game to illu
 >
 > Philosophical Investigations, Wittgenstein, 1953, p. 31
 
-Wittgenstein suggests to look instead of to think, and to describe instead of to explain. Thinking is an abstract process subject to the mind’s corrupted point of view, while looking is more practical and avoids this bias. Wittgenstein argued that things which could be thought to be connected by one essential common feature may in fact be connected by a series of overlapping similarities, where no one feature is common to all of the things. He coined this concept family resemblance.
+Wittgenstein suggests to look instead of to think, and to describe instead of to explain. Thinking is an abstract process subject to the mind’s corrupted point of view, while looking is practical and avoids this bias. Wittgenstein argued that things, which could be thought to be connected by one essential common feature, may in fact be connected by a series of overlapping similarities, where no one feature is common to all of the things. He coined this concept **family resemblance**.
 
-I can think of no better expression to characterize these similarities than “family resemblances”;… And I shall say: ‘games’ form a family.
+> I can think of no better expression to characterize these similarities than “family resemblances”;… And I shall say: ‘games’ form a family.
 
-Philosophical Investigations, Wittgenstein, 1953, p. 32
+> Philosophical Investigations, Wittgenstein, 1953, p. 32
 
 Wittgenstein didn’t think that words corresponded to things. The function and the meaning of a word were determined by its use. Definition is not something prior to the use of a word that fixes its meaning and determines how it will be used, but rather a descriptive tool that reflects the various ways a word is used:
 
