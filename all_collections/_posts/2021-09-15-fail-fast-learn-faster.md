@@ -3,12 +3,10 @@ layout: post
 title: Fail fast, learn faster.
 date: 2021-09-15 10:18:00
 categories: [career, entrepreneurship]
-thumbnail: "https://miro.medium.com/max/1400/1*HAO92dRNMxpSx_p5LIYCSw.webp"
+thumbnail: "assets/images/knight_surrender.jpeg"
 ---
 
 *Two years after taking the initiative of launching a startup, I kneel down and surrender my sword to begin looking at new career opportunities. The ride was crazy. Ecstatic moments repeatedly turned into emotional wreckages, only for new impulses to push me forward again. Despite the final outcome, the lessons were invaluable. Today, I feel more resilient than ever to face the next challenges that life will throw at me.*
-
-![Surrender](https://miro.medium.com/max/1400/1*HAO92dRNMxpSx_p5LIYCSw.webp)
 
 While following my Master’s at EPFL, I realized how lucky I was to have a startup ecosystem that offered support to entrepreneurial students. University really seemed like the best time to launch a startup. It also motivated me for my studies: I didn’t simply want to get them over with anymore, I wanted to enjoy the experience and stick around a little longer.
 
@@ -16,6 +14,7 @@ Naivety, curiosity and a strong desire to express my creativity pushed me toward
 
 I started brainstorming several ideas, but eventually settled for the Vivino of CBD. My dad was becoming quite a wine expert thanks to Vivino, while a friend was set to start a job at a CBD business. I tried CBD for sleep, stress, muscle pain and even as part of my spiritual practices. I discovered how much science there was to the cannabis plant, but how little was being presented to the public.
 
+{:style="text-align:center;"}
 ![CBD](https://miro.medium.com/max/1400/0*RapTk4VMeNkn3yNC)
 
 University peers recommended me a startup course given by the Swiss Innovation Agency. Participants had to pitch their idea hoping to work on it throughout the course. Selected projects would have the opportunity to recruit team members and have coaches regularly provide them feedback. One of which would become my mentor and business partner: Haider Alleg.
