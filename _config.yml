@@ -8,6 +8,9 @@ author:
   name: Adrian Guerra
   email: adrian.guerra@live.com
 
+# Google Analytics
+google_analytics: G-5B2P38KDEX
+
 plugins:
   - jemoji
   - jekyll-seo-tag
