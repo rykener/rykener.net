@@ -1,40 +1,49 @@
-# Jekyll Theme Material You
+# Vonge
 
-> A Jekyll theme for Material You Lovers
+Vonge is a Personal portfolio/blog site template for Jekyll. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
+Increase the web presence of your brand with this configurable theme.
 
-[Live Demo](https://sharadcodes.github.io/jekyll-theme-material-you/)
+![Vonge template screenshot](_screenshot.png)
 
-## How to install
+Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
+The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
 
-1. Download or clone the repo
-   `git clone https://github.com/sharadcodes/jekyll-theme-material-you.git`
-2. Enter the folder
-   `cd jekyll-theme-material-you`
-3. Run
-   `bundle install`
-4. Start Jekyll server
-   `bundle exec jekyll serve`
-5. Access via
-   - localhost or according to your pc configurations.
-6. Change the `_config.yml` & `_data/author.yml` files as you like.
-7. Upload the files on your repository and :sunglasses: enjoy.
-> NOTE: You have to remove `url` and `baseurl` from `_config.yml` to use this theme for `<your-username>.github.io`
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Community](https://cloudcannon.com/community/).
 
-## Alert!
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-jekyll-bookshop-template)
 
-* Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill you click on.
-* **Avoid having spaces in category name** because they break the category posts modal's code. You can use underscore instead of them.
+## Features
 
-# Screenshots
+* Component library for website building
+* Fully configurable Website
+* Pre-built pages
+* Pre-styled components
+* Blog
+* Category pages
+* Testimonials
+* Portfolio
+* Live editing with [CloudCannon](http://cloudcannon.com/)
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* Search engine optimisation
 
-## PC BLOG PAGE
+## Develop
 
-![Blog page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/pc_blog.png)
+Vonge was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
 
-## CATEGORIES MODAL
+Install the dependencies for Bookshop:
 
-![Categories modal](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/cat_modal.png)
+~~~bash
+$ npm install
+~~~
 
-## PC POST EXAMPLE
+Install the Jekyll dependencies with [Bundler](http://bundler.io/):
 
-![Post page](https://raw.githubusercontent.com/sharadcodes/jekyll-theme-material-you/main/screenshots/pc_post.png)
+~~~bash
+$ npm run install-jekyll
+~~~
+
+Run the website:
+
+~~~bash
+$ npm start
+~~~
