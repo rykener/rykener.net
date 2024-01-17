@@ -1,6 +1,6 @@
 ---
-name: Omid Shahmirzadi
+name: Omid Shahmirzadi, PhD
 position: Quantitative Strategist at Millenium
 image: 'images/omid.jpg'
-blurb: Using a blend of data science, data engineering and software engineering skills, Adrian delivered us products that are now of use to the team.
+blurb: Adrian showcased a commendable work ethic and reliability. He efficiently used his skills in data science, data engineering, and software engineering to deliver valuable products of use to the team.
 ---
