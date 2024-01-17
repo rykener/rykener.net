@@ -1,6 +1,6 @@
 {
-  "name": "vonge-jekyll-bookshop-template",
-  "description": "Vonge template for CloudCannon",
+  "name": "adrian-guerra-website",
+  "description": "Adrian Guerra Website",
   "scripts": {
     "bookshop-dev": "bookshop-browser -p 6086 -b ./components",
     "bookshop-hosted": "bookshop-browser -b ./components -o site/js/bookshop-hosted.js",
@@ -9,16 +9,8 @@
     "start": "run-p bookshop-dev jekyll",
     "install-jekyll": "BUNDLE_GEMFILE=site/Gemfile bundle install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bglw/bookshop-example.git"
-  },
-  "author": "",
+  "author": "Adrian Guerra",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bglw/bookshop-example/issues"
-  },
-  "homepage": "https://github.com/bglw/bookshop-example#readme",
   "devDependencies": {
     "@bookshop/browser": "^3.8.0",
     "@bookshop/jekyll-engine": "^3.8.0",
