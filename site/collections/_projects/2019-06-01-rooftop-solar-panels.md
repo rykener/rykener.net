@@ -1,6 +1,6 @@
 ---
 date: 2019-06-01
-title: "Urban Solar Mapping: Leveraging Machine Learning for Solar Infrastructure Analysis"
+title: "Automatic Detection of Rooftop Solar Panels using Convolutional Neural Networks"
 subtitle: Deep Learning
 image: '/images/deepsolar_getty-960x540.jpg'
 ---
@@ -8,7 +8,7 @@ image: '/images/deepsolar_getty-960x540.jpg'
 ## Problem Statement
 Accurately mapping the location and size of solar installations in urban areas presents a significant challenge yet is crucial for policymakers and investors in distributed energy infrastructures. Traditional methods, such as surveys and database analysis, are often limited in scope and scalability, leading to a gap in comprehensive, large-scale mapping of solar installations. This gap hinders effective policy-making and investment in solar technology.
 
-## Solution
+## Solution Approach
 This project addresses the challenge by applying a supervised machine learning approach, specifically convolutional neural networks (CNNs), for the pixel-wise image segmentation of rooftop solar panels. By utilizing high-resolution aerial photos provided by the Swiss Federal Office of Topography, the project enables precise delineation and size detection of rooftop solar installations. The approach involves:
 
 1. **Data Augmentation and Parameter Tuning**: Implementing various data augmentation techniques and adjusting network parameters to optimize model performance, ensuring the model's robustness and accuracy in different urban scenarios.
