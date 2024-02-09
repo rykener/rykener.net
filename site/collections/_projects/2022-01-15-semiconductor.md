@@ -1,5 +1,5 @@
 ---
-date: 2021-01-09 07:20:35 +0300
+date: 2022-01-15 07:20:35 +0300
 title: Automated Costs Allocation Based on Historical Inputs of Financial Controllers in the Semiconductor Industry
 subtitle: Machine Learning
 image: '/images/semiconductor.jpg'

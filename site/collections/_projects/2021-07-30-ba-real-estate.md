@@ -1,5 +1,5 @@
 ---
-date: 2021-01-08 06:20:35 +0300
+date: 2021-07-30 06:20:35 +0300
 title: "Business Analysis for a Real Estate Price Prediction Application in Switzerland"
 subtitle: Business Analysis
 image: '/images/swiss_real_estate.jpg'
