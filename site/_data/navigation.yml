@@ -4,12 +4,12 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - url: '/about/'
-      title: 'About'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'About'
+      url: '/about/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Projects'
+      url: '/projects/'
     # - title: 'Language'
     #   submenu:
     #   - url: ''
@@ -18,6 +18,5 @@ menu__settings:
     #     title: 'FR'
     #   - url: ''
     #     title: 'ES'
-
       # - url: '/elements/'
       #   title: 'Elements'
