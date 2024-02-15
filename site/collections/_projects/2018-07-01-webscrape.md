@@ -5,7 +5,7 @@ subtitle: Software Development
 image: '/images/electricity.jpg'
 ---
 
-## Problem Statement
+## Problem
 In the dynamic and data-intensive energy trading sector, the need for real-time, accurate supply and demand data is paramount. Traders and investors were struggling with outdated and unreliable data sources, impeding their ability to make swift and informed market decisions. Additionally, the lack of a robust, efficient HTML parser tailored to .NET frameworks further complicated the data extraction process from complex web structures.
 
 ## Solution
@@ -17,7 +17,7 @@ Developed a comprehensive suite of solutions to address the core issues faced by
 
 3. **Library Unit Testing:** Rigorously unit-tested the web scraping library using NUnit to ensure the reliability, performance, and accuracy of the scraping tools. This testing phase was crucial in identifying and addressing potential issues, paving the way for a robust and fault-tolerant solution.
 
-## Tools Used
+## Tools Used:
 
 - **WebLINQ**: The core library developed for streamlined and efficient web scraping.
 - **LINQ**: Utilized for querying data within the web scraping programs, offering clear and concise syntax.
