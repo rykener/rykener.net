@@ -5,10 +5,10 @@ subtitle: Business Analysis
 image: '/images/swiss_real_estate.jpg'
 ---
 
-#### Problem
+### Problem
 The real estate market in Switzerland is highly regulated and complex, making accurate property valuation challenging for real estate vendors. There was a need for an advanced solution that could automate the pricing process by encapsulating the deep market knowledge and pricing methodologies specific to the Swiss real estate market.
 
-#### Solution
+### Solution
 Over two months, I collaborated closely with a renowned real estate expert to distill and document extensive knowledge and insights about property valuation in Switzerland. The solution involved the following key components:
 
 1. **Knowledge Capture and Documentation**: Conducting intensive sessions with the real estate expert to capture the nuanced understanding of property valuation, including market trends, regulatory impacts, and valuation methods specific to different types of properties in Switzerland.
@@ -22,5 +22,5 @@ Over two months, I collaborated closely with a renowned real estate expert to di
 
 2. **Collaboration Platforms**: Leveraged collaboration platforms to facilitate seamless communication and knowledge transfer between the real estate expert, the business analyst (myself), and the development team.
 
-#### Outcome:
+### Outcome
 The project successfully culminated in the creation of a comprehensive report that encapsulated the deep market knowledge and pricing methodologies for real estate properties in Switzerland. This report was instrumental in guiding the development of a cutting-edge real estate marketing platform. The platform is capable of automatically determining property prices, thereby empowering real estate vendors to accurately price and effectively market their properties to appropriate buyers, streamlining the real estate selling process in the Swiss market.
