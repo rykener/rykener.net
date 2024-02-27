@@ -1,30 +1,26 @@
 ---
 date: 2022-01-15 07:20:35 +0300
-title: Automated Costs Allocation Based on Historical Inputs of Financial Controllers in the Semiconductor Industry
+title: Automated Costs Allocation Based on Historical Inputs of Financial Controllers
 subtitle: Machine Learning
 image: '/images/semiconductor.jpg'
 ---
 
-**Project Description:**
+### Problem
+[STMicroelectronics](https://www.st.com/), a prominent figure in the semiconductor industry, faced challenges in optimizing the cost allocation processes for wafer production and material costs. These costs are crucial in semiconductor manufacturing, and the existing manual methods were inefficient and prone to errors. The company needed a solution to accurately classify these costs into multiple categories, leveraging the vast amounts of historical financial controller data.
 
-This project embarked on a transformative journey in the semiconductor industry, with the primary goal of optimizing cost allocation processes for STMicroelectronics, a key player in the sector. The focus was on the intricate financial data related to the production and material costs of wafers, a fundamental component in semiconductor manufacturing.
+### Solution
+The solution was an advanced machine learning-based system designed to automate the cost allocation process. This system was developed to analyze financial controller data, specifically focusing on wafer production and material costs, and classify these costs accurately using a multi-class classification approach. The project involved a detailed analysis of the financial data, followed by the application of several machine learning techniques to find the most effective method for cost classification.
 
-Over several weeks, an exhaustive analysis was carried out on the financial controller data specific to wafer production and material costs. This endeavor was not just about data analysis but also about integrating advanced machine learning techniques to classify these costs into multiple categories accurately. The project was framed as a multi-class classification task, requiring a nuanced understanding of both the financial and technical aspects of the semiconductor industry.
+### Tools Used
+The project employed a variety of machine learning tools and techniques to achieve its objectives:
 
-The backbone of this project was a comprehensive machine learning report that not only detailed the distribution of the data but also offered a deep dive into various predictive models explored, including:
+- **Regression Analysis** to understand the relationships between different factors and cost allocations.
+- **Decision Trees** for their simplicity and ease of interpretation, providing clear decision paths.
+- **Naive Bayes** for its probabilistic approach, suited for handling high-dimensional data.
+- **Neural Networks** to model complex, non-linear relationships inherent in the financial data.
+- **Ensemble Methods** to enhance predictive accuracy by combining multiple models.
 
-1. **Regression Analysis:** Employed to model the relationship between dependent and independent variables, aiding in understanding the impact of various factors on cost allocation.
+Integration with the [SAP Data Intelligence platform](https://www.sap.com/products/technology-platform/data-intelligence.html) was a crucial step, ensuring that the machine learning algorithm could be directly applied within STMicroelectronics' existing procurement processes.
 
-2. **Decision Trees:** Used for their simplicity and interpretability, these models provided clear insights into the decision-making process based on historical data.
-
-3. **Naive Bayes:** This probabilistic approach classified costs by applying the Bayes theorem, assuming independence among predictors, a technique particularly suited for high-dimensional data.
-
-4. **Neural Networks:** Leveraged for their ability to model complex and non-linear relationships, these networks brought sophistication to the predictive models.
-
-5. **Ensemble Methods:** These methods combined multiple models to improve predictive performance and robustness, ensuring a more accurate cost allocation.
-
-A significant highlight of this project was the integration of the final algorithm with the SAP Data Intelligence platform. Given that SAP was the incumbent procurement platform used by STMicroelectronics, this integration was pivotal for seamless implementation and real-time application.
-
-## Outcome
-
-The project's culmination was not just theoretical but had tangible benefits. An impressive 90% of costs were automatically allocated with high certainty, streamlining the process and freeing up valuable resources. The remaining 10%, which required a nuanced understanding and manual intervention, were allocated by financial controllers. This strategic blend of automation and human oversight resulted in significant cost savings and enhanced efficiency for STMicroelectronics, setting a benchmark for financial processes in the semiconductor industry.
+### Outcome
+The implementation of the machine learning-based cost allocation system marked a significant improvement for STMicroelectronics. The system achieved a 90% accuracy rate in automatically allocating costs, significantly streamlining the process. This automation allowed financial controllers to focus on the 10% of cases that required manual intervention, thus optimizing both time and resources. The project not only resulted in cost savings but also set a new standard for financial process efficiency in the semiconductor industry.
