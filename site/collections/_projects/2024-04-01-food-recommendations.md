@@ -9,19 +9,16 @@ image: '/images/food_recs.jpg'
 
 The client was exploring data-driven enhancements to user experience and profitability within its online delivery marketplace. Four use cases were identified: product recommendation, delivery time prediction, dynamic fare pricing, and delivery route optimization. After evaluating the availability of data and feasibility of each case, product recommendation for the food segment was selected for a proof-of-concept initiative.
 
-The food segment alone accounted for over 205,000 orders in 2023, generating approximately $6 million in revenue. Despite this success, the existing system lacked any types of recommendations. The client's objective was to improve user experience by providing personalized food recommendations, inspired by advanced techniques such as those detailed in Uber Eats’ approach to recommendations.
+The food segment alone accounted for over 205,000 orders in 2023, generating approximately $6 million in revenue to the company. Despite its success, the existing interface lacked any types of recommendations. The client's objective was to improve user experience by providing personalized food recommendations, inspired by advanced techniques such as those detailed in [Uber Eats’ approach to recommendations](https://www.uber.com/en-CH/blog/uber-eats-recommending-marketplace/).
 
 ### Solution
 
-A proof-of-concept product recommendation pipeline was designed that combined content-based and collaborative filtering methods to deliver personalized food suggestions. The development process began with the extraction and manipulation of relevant user and product data from MongoDB, which was then parsed into pandas DataFrames for detailed analysis.
+A proof-of-concept product recommendation pipeline was designed that combined content-based and collaborative filtering methods to deliver personalized food suggestions. The development process began with the extraction and manipulation of relevant user and product data from MongoDB, which was then parsed into pandas DataFrames for detailed analysis. The solution involved:
 
-**Exploratory Data Analysis (EDA):** We conducted thorough exploratory data analysis to uncover patterns and relationships within the data, essential for refining our recommendation strategies based on real user behaviors and product characteristics.
-
-**Content-Based Filtering:** User and food taste profiles were developed using extracted features from product descriptions and user preferences. These profiles were transformed into numerical vectors using sklearn’s DictVectorizer, enabling us to calculate similarity scores between user tastes and product profiles.
-
-**Collaborative Filtering:** This method utilized users’ purchase histories to identify products favored by similar users, thus dynamically capturing changing user preferences.
-
-**Hybrid Approach:** The integration of content-based and collaborative filtering allowed our engine to suggest food items similar to those previously liked by the user, as well as new items popular among similar users, enhancing both accuracy and discovery.
+- **Exploratory Data Analysis (EDA):** We conducted thorough exploratory data analysis to uncover patterns and relationships within the data, essential for refining our recommendation strategies based on real user behaviors and product characteristics.
+- **Content-Based Filtering:** User and food taste profiles were developed using extracted features from product descriptions and user preferences. These profiles were transformed into numerical vectors using sklearn’s DictVectorizer, enabling us to calculate similarity scores between user tastes and product profiles.
+- **Collaborative Filtering:** This method utilized users’ purchase histories to identify products favored by similar users, thus dynamically capturing changing user preferences.
+- **Hybrid Approach:** The integration of content-based and collaborative filtering allowed our engine to suggest food items similar to those previously liked by the user, as well as new items popular among similar users, enhancing both accuracy and discovery.
 
 ### Tools Used
 
