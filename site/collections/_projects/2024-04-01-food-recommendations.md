@@ -16,13 +16,9 @@ In 2023 alone, the food segment accounted for over 205,000 orders, generating ap
 We identified the data requirements for building a product recommendation pipeline and collected the necessary data. Drawing inspiration from [Uber Eats’ advanced recommendation techniques](https://www.uber.com/en-CH/blog/uber-eats-recommending-marketplace/), we designed a proof-of-concept product recommendation pipeline combining content-based and collaborative filtering methods to deliver personalized food suggestions. The development process included several key steps:
 
 1. **Data Collection**: We began by extracting and manipulating relevant user and product data from MongoDB, converting this information into pandas DataFrames for in-depth analysis.
-
 2. **Exploratory Data Analysis (EDA)**: We conducted a comprehensive exploratory data analysis to identify patterns and relationships within the data, which are crucial for refining our recommendation strategies based on actual user behaviors and product attributes.
-
 3. **Content-Based Filtering**: We created user and food taste profiles using features extracted from product descriptions and user preferences. These profiles were converted into numerical vectors using sklearn’s DictVectorizer, enabling the calculation of similarity scores between user tastes and product profiles.
-
 4. **Collaborative Filtering**: This technique leveraged users’ purchase histories to identify products favored by similar users, effectively capturing evolving user preferences.
-
 5. **Hybrid Approach**: By integrating content-based and collaborative filtering, our engine was able to recommend food items that not only matched previous preferences but also included popular items among similar users, thus improving both accuracy and discovery.
 
 ### Tools Used
