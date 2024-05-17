@@ -69,3 +69,20 @@
 		}
 	}
 }
+
+.dark .c-contact-form { $c: &;
+
+	&__form-input {
+		border: 1px solid $dark-border-color;
+		color: $dark-text-color;
+		background: $dark-background-color-alt;
+
+		&::placeholder {
+			color: rgba($dark-text-color, 0.3);
+		}
+
+		&:focus {
+			box-shadow: 0px 4px 10px rgba($dark-primary-color, 0.25);
+		}
+	}
+}

@@ -11,6 +11,12 @@
           {% else %}
             {{ site.data.settings.title }}
           {% endif %}
+          
+          {%if site.data.navigation.logo_image_white %}
+            <img class="logo__image__white" src="{{ site.baseurl }}{{ site.data.navigation.logo_image_white}}" alt="{{ site.data.general_settings.title }}">
+          {% else %}
+            {{ site.data.settings.title }}
+          {% endif %}
           </a>
         </div>
 

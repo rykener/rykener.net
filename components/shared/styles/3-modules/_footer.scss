@@ -94,3 +94,33 @@
     font-size: 14px;
   }
 }
+
+
+.dark .footer {
+  background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+
+  .social {
+    .social__link {
+      color: $dark-primary-color;
+      background: $dark; 
+      &:hover {
+        color: $dark-primary-color;
+      }
+    }
+  }
+
+  .footer_nav {
+    .footer_nav__link {
+      color: $dark; 
+    }
+  }
+}
+
+.dark .copyright {
+  color: rgba($dark, 0.7); 
+  a {
+    font-weight: 500;
+    color: $dark; 
+  }
+}
+
