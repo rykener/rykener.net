@@ -131,3 +131,26 @@
 		transition: transform .4s cubic-bezier(.165,.85,.45,1),opacity .4s cubic-bezier(.165,.85,.45,1);
 	}
 }
+
+.dark .c-project-card { $c: &;	
+	&__image {
+		background-color: $dark-blue-gray;
+
+		&::before {
+			background: linear-gradient(360deg, $dark-primary-color 0%, rgba($dark-secondary-color, 0.3) 120.95%);
+		}
+
+		img {
+			background-color: $dark-blue-gray;
+		}
+
+	}
+
+	&__content {
+		box-shadow: 0px 0px 30px rgba($dark-primary-color, 0.1);
+	}
+
+	&__title, &__subtitle {
+		color: $dark;
+	}
+}

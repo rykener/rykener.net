@@ -68,3 +68,29 @@
     font-size: 18px;
   }
 }
+
+/* Button Dark Theme */
+.dark .c-button {
+
+  &--primary {
+    color: $dark;
+    background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+
+    &:hover {
+      color: $dark !important;
+    }
+
+    &::before {
+      background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 107%);
+    }
+  }
+
+  &--secondary {
+    color: $dark-text-color;
+    background: $dark-background-color-alt;
+
+    &:hover {
+      color: $dark-text-color;
+    }
+  }
+}

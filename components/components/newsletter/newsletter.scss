@@ -102,3 +102,20 @@
 		color: $primary-color;
 	}
 }
+
+.dark .c-subscribe { $c: &;
+	
+	&__form-email {
+		color: $dark-text-color;
+		background: $dark-background-color-alt;
+
+		&::placeholder {
+			color: $dark-text-color;
+		}
+
+		&:focus {
+			border: 1px solid $dark-primary-color;
+			box-shadow: 0px 4px 10px rgba($dark-primary-color, 0.25);
+		}
+	}
+}

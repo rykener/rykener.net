@@ -12,3 +12,15 @@
     }
   }
 }
+
+
+.dark .page {
+  a {
+    border-bottom: 1px solid $dark-border-color;
+
+    &:hover {
+      color: $dark-link-color;
+      border-bottom-color: $dark-link-color-hover;
+    }
+  }
+}

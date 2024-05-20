@@ -77,3 +77,16 @@
 		opacity: 0.7;
 	}
 }
+
+.dark .c-testimonial-card {
+	&__content {
+		color: $dark;
+		background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+	}
+
+	&__client-text {
+		&::after {
+			color: $dark;
+		}
+	}
+}

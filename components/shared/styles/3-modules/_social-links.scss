@@ -46,3 +46,15 @@
     }
   }
 }
+
+.dark .social {
+  .social__link {
+    &:hover {
+      color: $dark;
+    }
+
+    &::after {
+      background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+    }
+  }
+}

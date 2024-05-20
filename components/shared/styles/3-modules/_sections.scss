@@ -87,3 +87,17 @@
     }
   }
 }
+
+.dark .section__info {
+  .section__head {  
+    .section__link { 
+      &:hover {
+        color: $dark-text-color;
+      }
+
+      i {
+        background: $dark-background-color-alt;
+      }
+    }
+  }
+}

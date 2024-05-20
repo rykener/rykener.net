@@ -152,3 +152,34 @@
     margin-right: 4px;
   }
 }
+
+
+.dark .testimonial-item {
+  .testimonial-content {
+    color: $dark;
+    background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+    
+    .client-text {
+      &::after {
+        color: $dark;
+      }
+    }
+  }
+}
+
+
+.dark .controls {
+  .prev,
+  .next { 
+    color: $dark-text-color;
+    background: $dark-background-color-alt;
+
+    &::after {
+      background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
+    }
+
+    &:hover {
+      color: $dark;
+    }
+  }
+}
