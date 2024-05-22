@@ -3,8 +3,8 @@ logo_image_white: '/images/Adrian_Guerra_White.svg'
 
 menu__settings:
   menu__items:
-    - title: 'Home'
-      url: '/'
+    # - title: 'Home'
+    #   url: '/'
     - title: 'About'
       url: '/about/'
     - title: 'Blog'
