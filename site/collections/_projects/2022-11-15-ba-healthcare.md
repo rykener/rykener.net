@@ -2,7 +2,7 @@
 date: 2022-11-15
 title: Enhancing Efficiency and User Experience for a Health Agency Platform
 subtitle: Business Analysis
-image: '/images/ceesv-dalle.png'
+image: '/images/ba-swiss-healthcare.png'
 ---
 
 ### Problem
