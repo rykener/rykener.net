@@ -10,7 +10,7 @@ menu__settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Portfolio'
-      url: '/projects/'
+      url: '/portfolio/'
     # - title: 'Language'
     #   submenu:
     #   - url: ''
