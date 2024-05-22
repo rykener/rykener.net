@@ -6,8 +6,8 @@ footer_menu__settings:
       url: '/about/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Projects'
-      url: '/projects/'
+    - title: 'Portfolio'
+      url: '/portfolio/'
     # - title: 'Elements'
     #   url: '/elements/'
 
