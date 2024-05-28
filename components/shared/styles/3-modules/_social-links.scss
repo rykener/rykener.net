@@ -47,6 +47,12 @@
   }
 }
 
+.c-header{
+  .social{
+    display: flex;
+  }
+}
+
 .dark .social {
   .social__link {
     &:hover {
@@ -56,5 +62,42 @@
     &::after {
       background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
     }
+  }
+}
+
+
+@media (max-width: 600px) { 
+  .social {
+    justify-content: space-between;
+  }
+}
+
+
+.nav-signup {
+  padding: 0.4rem 1rem;
+  color: $white;
+  background-color: $dark;
+  border-radius: 1rem;
+  margin: 0 1.4rem;
+  font-size: 15px;
+  font-weight: 600;
+
+  &:hover {
+    background-color: rgba($primary-color, 0.1);
+    color: $dark;
+  }
+}
+
+.dark .nav-signup {
+  padding: 0.4rem 1rem;
+  color: $dark-dark;
+  background-color: $white;
+  border-radius: 1rem;
+  margin: 0 1.4rem;
+  font-size: 15px;
+  font-weight: 600;
+
+  &:hover {
+    background-color: rgba($primary-color, 0.1);
   }
 }
