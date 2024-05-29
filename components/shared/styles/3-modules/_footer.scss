@@ -42,7 +42,7 @@
     background-color: transparent;
     border-color: transparent;
     font-size: 15px;
-    padding: 0.5rem;
+    margin-left: 0.5rem;
     font-weight: 600;
     cursor: pointer;
   }
@@ -95,11 +95,11 @@
   }
   input{
     border-radius: 0.4rem;
-    padding: 0.4rem;
+    padding: 0.8rem;
     margin: 0;
     border: 0;
     height: 2.2rem;
-    min-width: 300px;
+    min-width: 200px;
   }
   button{
     position: absolute;
@@ -121,11 +121,15 @@
   }
 
   .footer_nav {
-    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
 
     .footer_nav__item {
       display: inline;
-      margin: 0 24px;
+      margin: 0 32px;
       font-size: 0;
     }
 
@@ -133,6 +137,7 @@
       font-size: 16px;
       font-weight: 600;
       color: $white;
+      max-height: 10px;
     }
   }
   option{
@@ -212,20 +217,13 @@
   .language-dropdown, .dropdown{
     color: $dark;
   }
-  .dropdown{
-    background-color: transparent;
-    border-color: transparent;
-    font-size: 15px;
-    padding: 0.5rem;
-    font-weight: 600;
-  }
   option{
     color: $white;
     background-color: $dark;
   }
   .second-row{
-    border-top: 2px solid $dark-border-color;
-    border-bottom: 0.4px solid $dark-border-color;
+    border-top: 0.8px solid $dark-border-color;
+    border-bottom: 0.8px solid $dark-border-color;
   }
   .social .social__link{
     background-color: transparent;

@@ -29,7 +29,7 @@
     </div>
 
     <div class="second-row">
-      <ul class="footer_nav list-reset">
+      <ul class="footer_nav">
         {% for item in site.data.footer.footer_menu__settings.menu__items %}
         <li class="footer_nav__item">
           <a href="{{ item.url | relative_url }}" class="footer_nav__link">{{ item.title }}</a>
