@@ -1,9 +1,55 @@
 /* Header */
-.c-header {
-  height: auto;
-  transition: $global-transition;
+:root {
+  --header-height: 100px;
+  --header-height-scrolled: 70px;
+  --header-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+.c-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: $background-color;
+  transition: $global-transition;
+  z-index: 100;
+}
+
+.c-header.scrolled {
+  transition: $global-transition;
+  height: var(--header-height-scrolled);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+  .logo__image, .logo__image__white{
+    max-height: 30px;
+  }
+  .nav__item .nav__link{
+    font-size: 70%;
+  }
+  .main-nav .social .social__link{
+    font-size: 90%;
+  }
+  .nav-signup{
+    font-size: 60%;
+  }
+  .second-language{
+    font-size: 80%;
+  }
+  .dropdown{
+    font-size: 80%;
+  }
+  @media only screen and (max-width: $mobile) {
+    height: 60px;
+  }
+}
+
+main {
+  margin-top: var(--header-height);
+  z-index: 90;
+  @media only screen and (max-width: $mobile) {
+    margin-top: 60px;
+  }
+}
 .c-header__inner {
   position: relative;
   display: flex;
@@ -11,6 +57,7 @@
   width: 100%;
   padding: 48px $base-spacing-unit 40px;
   min-height: 80px;
+  transition: $global-transition;
 
   @media only screen and (max-width: $desktop) {
     align-items: baseline;
@@ -19,6 +66,21 @@
   @media only screen and (max-width: $mobile) {
     padding: 30px $base-spacing-unit;
   }
+}
+
+.c-header__inner.scrolled{
+  transition: $global-transition;
+  padding: 8px $base-spacing-unit 10px;
+  @media only screen and (max-width: $mobile) {
+    padding: 15px $base-spacing-unit 10px;
+  }
+}
+
+.dark .c-header{
+  background-color: $dark-background-color;  
+}
+.dark .c-header.scrolled{
+  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2);
 }
 
 /* Logo */
