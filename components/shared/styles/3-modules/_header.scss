@@ -80,8 +80,11 @@
     overflow: auto;
     background: $white;
     transition: all .25s ease;
+    display: none;
 
     &.is-open {
+      box-shadow: none;
+      display: block;
       z-index: 999;
       opacity: 1;
       transition: all .25s ease;
@@ -89,7 +92,7 @@
 
     .nav__list {
       width: 100%;
-      max-width: 360px;
+      max-width: min-content;
       padding-left: 40px;
 
       .nav__item {
@@ -318,6 +321,13 @@
     }
   }
 }
+@media only screen and (max-width: $mobile) {
+  .nav-list {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+  }
+}
 
 .nav-button {
   display: flex;
@@ -339,6 +349,58 @@
   }
 }
 
+.language-dropdown{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+option{
+  background-color: rgba($primary-color, 0.1);
+}
+
+.dark option{
+  background-color: $dark;
+}
+
+.dropdown{
+  background-color: transparent;
+  border-color: transparent;
+  color: $dark;
+  font-size: 15px;
+  padding: 0.5rem;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.dark .dropdown{
+  background-color: transparent;
+  border-color: transparent;
+  color: $white;
+  font-size: 15px;
+  padding: 0.5rem;
+  font-weight: 600;
+}
+
+.first-language{
+  display: none;
+}
+
+.second-language{
+  display: flex;
+}
+
+@media only screen and (max-width: $mobile) {
+  .second-language{
+    display: none;
+  }
+    
+  .first-language{
+    display: flex;
+  }
+}
 
 .dark .logo__link {
   &:hover {
