@@ -12,19 +12,17 @@
 
     {% include header.html %}
 
-    <main>
-        {{ content }}
+    {{ content }}
 
-        <!-- 
-            Bookshop components are accessed using the bookshop tag, 
-            using the same syntax as the standard Jekyll include tag.
-        -->
-        {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
+    <!-- 
+        Bookshop components are accessed using the bookshop tag, 
+        using the same syntax as the standard Jekyll include tag.
+    -->
+    {% bookshop_include page content_blocks=page.content_blocks page_theme=page.page_theme %}
 
-        <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+    <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
 
-        {% include footer.html %}
-    </main>
+    {% include footer.html %}
 
     <!--
         load the live component for CloudCannon live previews.

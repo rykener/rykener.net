@@ -1,30 +1,9 @@
 /* Header */
-:root {
-  --header-height: 100px;
-  --header-height-scrolled: 70px;
-  --header-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
 .c-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: $background-color;
+  height: auto;
   transition: $global-transition;
-  z-index: 100;
 }
 
-.c-header.scrolled {
-  transition: $global-transition;
-  height: var(--header-height-scrolled);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
-
-main {
-  margin-top: var(--header-height);
-  z-index: 90;
-}
 .c-header__inner {
   position: relative;
   display: flex;
@@ -32,7 +11,6 @@ main {
   width: 100%;
   padding: 48px $base-spacing-unit 40px;
   min-height: 80px;
-  transition: $global-transition;
 
   @media only screen and (max-width: $desktop) {
     align-items: baseline;
@@ -41,18 +19,6 @@ main {
   @media only screen and (max-width: $mobile) {
     padding: 30px $base-spacing-unit;
   }
-}
-
-.c-header__inner.scrolled{
-  transition: $global-transition;
-  padding: 10px $base-spacing-unit 10px;
-}
-
-.dark .c-header{
-  background-color: $dark-background-color;  
-}
-.dark .c-header.scrolled{
-  box-shadow: 0 4px 6px rgba(255, 255, 255, 0.2);
 }
 
 /* Logo */
