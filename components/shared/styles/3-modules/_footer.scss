@@ -8,14 +8,13 @@
   .first-row{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 2rem;
+    margin-bottom: 3rem;
   }
   .second-row{
     display: flex;
     justify-content: space-between;
     padding: 2rem 0;
-    border-top: 0.8px solid $border-color;
-    border-bottom: 0.8px solid $border-color;
+    
   }
   .third-row{
     display: flex;
@@ -87,11 +86,18 @@
     gap: 0.4rem;
     max-height: min-content;
     color: $white;
+    @media only screen and (max-width: $mobile) {
+      align-items: center;
+      min-width: 100%;
+    }
   }
   form{
     display: flex;
     position: relative;
     align-items: center;
+    @media only screen and (max-width: $mobile) {
+      min-width: 100%;
+    }
   }
   input{
     border-radius: 0.4rem;
@@ -100,6 +106,9 @@
     border: 0;
     height: 2.2rem;
     min-width: 200px;
+    @media only screen and (max-width: $mobile) {
+      min-width: 100%;
+    }
   }
   button{
     position: absolute;
@@ -126,10 +135,13 @@
     list-style-type: none;
     padding: 0;
     margin: 0;
+    grid-auto-rows: 40%;
 
     .footer_nav__item {
       display: inline;
-      margin: 0 32px;
+      margin: 0;
+      margin-left: 32px;
+      margin-right: 100px;
       font-size: 0;
     }
 
@@ -149,36 +161,30 @@
   }
   
   @media only screen and (max-width: $mobile) {
-    padding: 1.4rem 0.6rem;
+    padding: 2rem 1.4rem;
     margin-top: 30px;
 
-      .form-social{
+    .form-social{
       align-items: start;
       gap: 0.2rem;
-      margin: 10px 12px;
-      }
+    }
 
-     .footer_nav {
-      display: flex;
-      flex-direction: column;
-      align-items: start;
+    .footer_nav {
+      grid-template-columns: 1fr 1fr;
       .footer_nav__item {
-        margin: 0 12px;
+        margin-top: 0;
+        margin-left: 20px;
+        margin-right: 24px;
+        margin-bottom: 8px;
       }
     }
     .second-row{
       flex-direction: column;
-      align-items: start;
-      
-    }
-    .first-row {
-      margin-bottom: 1rem;
+
     }
     .second-row {
-      padding: 0.5rem 0;
-      border-top-width: 1px;
-      border-bottom-width: 0.2px;
-      margin-bottom: 1rem;
+      margin-bottom: 0;
+      padding-bottom: 0;
     }
     .third-row {
       justify-content: center;
@@ -187,15 +193,23 @@
       display: flex;
       justify-content: center;
       margin-top: 1rem;
-    }
-    .social .social__link {
-      margin: 0 0.5rem;
-      i {
-        font-size: $font-size-h3;
+      .social__item{
+        margin: 0;
+      }
+      .social__list{
+        align-items: start;
+        justify-content: start;
+      }
+      .social__link{
+        padding: 0;
+        margin: 0;
+        margin-right: 0.5rem;
+        i {
+          font-size: $font-size-h3;
+        }
       }
     }
   }
-  
 }
 
 .dark .footer{
@@ -221,10 +235,7 @@
     color: $white;
     background-color: $dark;
   }
-  .second-row{
-    border-top: 0.8px solid $dark-border-color;
-    border-bottom: 0.8px solid $dark-border-color;
-  }
+  
   .social .social__link{
     background-color: transparent;
     color: $dark;
@@ -245,9 +256,9 @@
   margin-top: 20px;
   font-size: 16px;
   line-height: 1.5;
-  text-align: center;
+  text-align: start;
   color: $white;
-  font-weight: 500;
+  font-weight: normal;
 
   p {
     margin: 0;
@@ -259,6 +270,7 @@
 
   @media only screen and (max-width: $mobile) {
     font-size: 14px;
+    margin-top: 10px;
   }
 }
 
@@ -269,3 +281,29 @@
   }
 }
 
+.horizontal-line{
+   height: 0.8px;
+   background-color: $border-color;
+   padding: 0;
+   margin: 0;
+}
+
+.dark .horizontal-line{
+  background-color: $dark-border-color;
+}
+
+.line-2{
+  display: none;
+  @media only screen and (max-width: $mobile) {
+    display: block;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.line-3{
+  display: block;
+  @media only screen and (max-width: $mobile) {
+    display: none;
+  }
+}
