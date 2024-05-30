@@ -12,7 +12,7 @@
   width: 100%;
   background-color: $background-color;
   transition: $global-transition;
-  z-index: 100;
+  z-index: 20;
 }
 
 .c-header.scrolled {
@@ -22,21 +22,6 @@
 
   .logo__image, .logo__image__white{
     max-height: 30px;
-  }
-  .nav__item .nav__link{
-    font-size: 70%;
-  }
-  .main-nav .social .social__link{
-    font-size: 90%;
-  }
-  .nav-signup{
-    font-size: 60%;
-  }
-  .second-language{
-    font-size: 80%;
-  }
-  .dropdown{
-    font-size: 80%;
   }
   @media only screen and (max-width: $mobile) {
     height: 60px;
@@ -96,6 +81,7 @@ main {
 
 .logo__image, .logo__image__white {
   max-height: 50px;
+  min-width: 140px;
 }
 
 .logo__image__white{

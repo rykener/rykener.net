@@ -169,7 +169,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const header_inner = document.querySelector('.c-header__inner');
 
   window.addEventListener('scroll', function() {
-    if (window.scrollY > 0) {
+    if (window.scrollY > 70) {
       header.classList.add('scrolled');
       header_inner.classList.add('scrolled');
     } else {
