@@ -8,9 +8,11 @@ footer_menu__settings:
       url: '/blog/'
     - title: 'Portfolio'
       url: '/portfolio/'
+    - title: 'Services'
+      url: '/services/'
     # - title: 'Elements'
     #   url: '/elements/'
 
 
 copyright_text_html: >-
-  <p> 2023 &copy; <a href="/">Adrian Guerra</a></p>
+  <p>&copy;2023 <a href="/">Adrian Guerra Consulting.</a> All Rights Reserved.</p>
