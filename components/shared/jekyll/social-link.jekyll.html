@@ -1,5 +1,5 @@
+{% if site.data.social_links.social %}
 <div class="social">
-  {% if site.data.social_links.social %}
   <ul class="social__list list-reset">
     {% for social in site.data.social_links.social %}
     <li class="social__item">
@@ -7,8 +7,5 @@
     </li>
     {% endfor %}
   </ul>
-  {% endif %}
-  {% if include.show_sign_up %}
-    <a class="nav-signup" href="#newsletter">Sign up</a>
-  {% endif %}
 </div>
+{% endif %}
