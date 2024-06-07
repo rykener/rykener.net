@@ -13,6 +13,8 @@ menu__settings:
       url: '/portfolio/'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Contact'
+      url: '/#contact'
     # - title: 'Language'
     #   submenu:
     #   - url: ''
