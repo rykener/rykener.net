@@ -11,7 +11,7 @@
   left: 0;
   width: 100%;
   transition: $global-transition;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $desktop) {
     height: 60px;
     z-index: 20;
   }
@@ -56,7 +56,7 @@ main {
 .c-header__inner.scrolled{
   transition: $global-transition;
   padding: 8px $base-spacing-unit 10px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $desktop) {
     padding: 15px $base-spacing-unit 10px;
   }
 }
@@ -368,7 +368,7 @@ main {
     }
   }
 }
-@media only screen and (max-width: $mobile) {
+@media only screen and (max-width: $desktop) {
   .nav-list {
     display: flex;
     align-items: baseline;
@@ -437,9 +437,10 @@ option{
 
 .second-language{
   display: flex;
+  margin-left: 4rem;
 }
 
-@media only screen and (max-width: $mobile) {
+@media only screen and (max-width: $desktop){
   .second-language{
     display: none;
   }
@@ -530,4 +531,9 @@ option{
 
 .dark .nav-button {
   color: $dark-text-color;
+}
+
+.container-top{
+  max-width: 1350px;
+  margin-right: 1rem;
 }
