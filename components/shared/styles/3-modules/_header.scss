@@ -11,7 +11,7 @@
   left: 0;
   width: 100%;
   transition: $global-transition;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $desktop) {
     height: 60px;
     z-index: 20;
   }
@@ -56,7 +56,7 @@ main {
 .c-header__inner.scrolled{
   transition: $global-transition;
   padding: 8px $base-spacing-unit 10px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: $desktop) {
     padding: 15px $base-spacing-unit 10px;
   }
 }
@@ -368,7 +368,7 @@ main {
     }
   }
 }
-@media only screen and (max-width: $mobile) {
+@media only screen and (max-width: $desktop) {
   .nav-list {
     display: flex;
     align-items: baseline;
@@ -402,7 +402,7 @@ main {
   justify-content: center;
   align-items: center;
   margin-right: 1rem;
-  margin-top: 0.2rem;
+  margin-top: 0.3rem;
   margin-left: 1rem;
 }
 
@@ -422,6 +422,7 @@ option{
   padding-left: 0.2rem;
   padding-right: 0.1rem;
   font-weight: 600;
+  margin-right: 0.3rem;
   cursor: pointer;
 }
 
@@ -435,11 +436,40 @@ option{
   display: none;
 }
 
-.second-language{
+.second-language {
   display: flex;
+  margin-left: 8%; 
+  margin-right: -13%;
 }
 
-@media only screen and (max-width: $mobile) {
+@media only screen and (max-width: 1300px) {
+  .second-language {
+    margin-left: 4%; 
+    margin-right: -10%;
+  }
+}
+
+@media only screen and (max-width: 1250px) {
+  .second-language {
+    margin-right: -8%; 
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .second-language {
+    margin-right: -4%;
+  }
+}
+
+@media only screen and (max-width: 1130px) {
+  .second-language {
+    margin-left: 2%;
+    margin-right: -4%;
+  }
+}
+
+
+@media only screen and (max-width: $desktop){
   .second-language{
     display: none;
   }
