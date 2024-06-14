@@ -5,28 +5,33 @@
   padding: 50px 50px 30px;
   overflow: hidden;
   background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
-  .first-row{
+
+  .first-row {
     display: flex;
     justify-content: space-between;
     margin-bottom: 3rem;
   }
-  .second-row{
+
+  .second-row {
     display: flex;
     justify-content: space-between;
     padding: 2rem 0;
-    
   }
-  .third-row{
+
+  .third-row {
     display: flex;
     justify-content: end;
   }
+
   .logo__image {
     display: none;
   }
+
   .logo__image__white {
     display: block;
   }
-  .language-dropdown{
+
+  .language-dropdown {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -34,10 +39,12 @@
     margin-right: 1rem;
     z-index: 1000;
   }
-  .language-dropdown, .dropdown{
+
+  .language-dropdown, .dropdown {
     color: $white;
   }
-  .dropdown{
+
+  .dropdown {
     background-color: transparent;
     border-color: transparent;
     font-size: 15px;
@@ -46,7 +53,7 @@
     cursor: pointer;
   }
 
-  .social{
+  .social {
     .social__link {
       display: inline-block;
       width: 40px;
@@ -60,7 +67,8 @@
       will-change: transform;
       background-color: transparent;
       color: $white;
-      i{
+
+      i {
         font-size: $font-size-h2;
       }
 
@@ -78,7 +86,8 @@
       }
     }
   }
-  .form{
+
+  .form {
     font-size: 16px;
     font-weight: 600;
     display: flex;
@@ -86,32 +95,38 @@
     gap: 0.4rem;
     max-height: min-content;
     color: $white;
+
     @media only screen and (max-width: $mobile) {
       align-items: center;
       min-width: 100%;
     }
   }
-  form{
+
+  form {
     display: flex;
     position: relative;
     align-items: center;
     width:250px;
+
     @media only screen and (max-width: $mobile) {
       min-width: 100%;
     }
   }
-  input{
+
+  input {
     border-radius: 0.4rem;
     padding: 0.8rem;
     margin: 0;
     border: 0;
     height: 2.2rem;
     width:250px;
+
     @media only screen and (max-width: $mobile) {
       min-width: 100%;
     }
   }
-  button{
+
+  button {
     position: absolute;
     padding: 0.4rem 1rem;
     color: $white;
@@ -123,7 +138,7 @@
     height: 2.1rem;
   }
 
-  .form-social{
+  .form-social {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
@@ -153,7 +168,8 @@
       max-height: 10px;
     }
   }
-  option{
+
+  option {
     color: $dark
   }
 
@@ -165,7 +181,7 @@
     padding: 2rem 1.4rem;
     margin-top: 30px;
 
-    .form-social{
+    .form-social {
       align-items: start;
       gap: 0.2rem;
     }
@@ -179,32 +195,36 @@
         margin-bottom: 8px;
       }
     }
-    .second-row{
-      flex-direction: column;
 
-    }
     .second-row {
+      flex-direction: column;
       margin-bottom: 0;
       padding-bottom: 0;
     }
+
     .third-row {
       justify-content: center;
     }
+
     .social {
       display: flex;
       justify-content: center;
       margin-top: 1rem;
-      .social__item{
+
+      .social__item {
         margin: 0;
       }
-      .social__list{
+
+      .social__list {
         align-items: start;
         justify-content: start;
       }
-      .social__link{
+
+      .social__link {
         padding: 0;
         margin: 0;
         margin-right: 0.5rem;
+
         i {
           font-size: $font-size-h3;
         }
@@ -213,7 +233,7 @@
   }
 }
 
-.dark .footer{
+.dark .footer {
   background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
 
   .footer_nav {
@@ -221,6 +241,7 @@
       color: $dark; 
     }
   }
+
   .logo__image__white {
     display: none;
   }
@@ -229,25 +250,29 @@
     display: block;
   }
 
-  .language-dropdown, .dropdown{
+  .language-dropdown, .dropdown {
     color: $dark;
   }
-  option{
+
+  option {
     color: $white;
     background-color: $dark;
   }
   
-  .social .social__link{
+  .social .social__link {
     background-color: transparent;
     color: $dark;
+
     &:hover {
       color: $dark-primary-color;
     }
-    i{
+
+    i {
       font-size: $font-size-h2;
     }
   }
-  .form{
+
+  .form {
     color: $dark;
   }
 }
@@ -276,25 +301,27 @@
 }
 
 .dark .copyright {
-  color: $dark; 
+  color: $dark;
+
   a {
     color: $dark; 
   }
 }
 
-.horizontal-line{
+.horizontal-line {
    border: 0;
    border-top: 1px solid $border-color;
    padding: 0;
    margin: 0;
 }
 
-.dark .horizontal-line{
+.dark .horizontal-line {
   border-top-color: $dark-border-color;
 }
 
-.line-2{
+.line-2 {
   display: none;
+
   @media only screen and (max-width: $mobile) {
     display: block;
     margin-top: 2rem;
@@ -302,8 +329,9 @@
   }
 }
 
-.line-3{
+.line-3 {
   display: block;
+
   @media only screen and (max-width: $mobile) {
     display: none;
   }
