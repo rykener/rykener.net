@@ -283,14 +283,14 @@
 }
 
 .horizontal-line{
-   height: 0.8px;
-   background-color: $border-color;
+   border: 0;
+   border-top: 1px solid $border-color;
    padding: 0;
    margin: 0;
 }
 
 .dark .horizontal-line{
-  background-color: $dark-border-color;
+  border-top-color: $dark-border-color;
 }
 
 .line-2{
