@@ -438,20 +438,37 @@ option{
 
 .second-language {
   display: flex;
-  margin-left: 8%; 
-  margin-right: -13%;
+  margin-left: 2%; 
+  margin-right: -8%;
+  border-left: 1px solid $dark;
+  padding-left: 1rem;
+  
+  i {
+    display: none;
+  }
+
+  select {
+    appearance: none;
+    padding: 0.3rem 0.5rem;
+    border: none;
+    outline: none;
+  }
+}
+
+.dark .second-language {
+  border-left-color: $white;
 }
 
 @media only screen and (max-width: 1300px) {
   .second-language {
-    margin-left: 4%; 
+    margin-left: 2%; 
     margin-right: -10%;
   }
 }
 
 @media only screen and (max-width: 1250px) {
   .second-language {
-    margin-right: -8%; 
+    margin-right: -7%; 
   }
 }
 
@@ -463,11 +480,9 @@ option{
 
 @media only screen and (max-width: 1130px) {
   .second-language {
-    margin-left: 2%;
-    margin-right: -4%;
+    margin-right: -5%;
   }
 }
-
 
 @media only screen and (max-width: $desktop){
   .second-language{
