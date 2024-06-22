@@ -20,10 +20,10 @@
     display: flex;
     justify-content: end;
   }
-  .logo__image {
+  .logo-image {
     display: none;
   }
-  .logo__image__white {
+  .logo-image-white {
     display: block;
   }
   .language-dropdown{
@@ -47,7 +47,7 @@
   }
 
   .social{
-    .social__link {
+    .social-link {
       display: inline-block;
       width: 40px;
       height: 40px;
@@ -138,7 +138,7 @@
     margin: 0;
     grid-auto-rows: 40%;
 
-    .footer_nav__item {
+    .footer_nav-item {
       display: inline;
       margin: 0;
       margin-left: 32px;
@@ -146,7 +146,7 @@
       font-size: 0;
     }
 
-    .footer_nav__link {
+    .footer_nav-link {
       font-size: 16px;
       font-weight: 600;
       color: $white;
@@ -172,7 +172,7 @@
 
     .footer_nav {
       grid-template-columns: 1fr 1fr;
-      .footer_nav__item {
+      .footer_nav-item {
         margin-top: 0;
         margin-left: 20px;
         margin-right: 24px;
@@ -194,14 +194,14 @@
       display: flex;
       justify-content: center;
       margin-top: 1rem;
-      .social__item{
+      .social-item{
         margin: 0;
       }
-      .social__list{
+      .social-list{
         align-items: start;
         justify-content: start;
       }
-      .social__link{
+      .social-link{
         padding: 0;
         margin: 0;
         margin-right: 0.5rem;
@@ -217,15 +217,15 @@
   background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
 
   .footer_nav {
-    .footer_nav__link {
+    .footer_nav-link {
       color: $dark; 
     }
   }
-  .logo__image__white {
+  .logo-image-white {
     display: none;
   }
 
-  .logo__image {
+  .logo-image {
     display: block;
   }
 
@@ -237,7 +237,7 @@
     background-color: $dark;
   }
   
-  .social .social__link{
+  .social .social-link{
     background-color: transparent;
     color: $dark;
     &:hover {
