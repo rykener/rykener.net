@@ -78,7 +78,7 @@
       }
     }
   }
-  .form{
+  .form-subscribe{
     font-size: 16px;
     font-weight: 600;
     display: flex;
@@ -113,14 +113,13 @@
   }
   button{
     position: absolute;
-    padding: 0.4rem 1rem;
-    color: $white;
-    background-color: $dark;
-    border-radius: 0.4rem;
-    font-size: 15px;
-    font-weight: 600;
-    right: 0.1rem;
-    height: 2.1rem;
+    font-size: 1.5rem;
+    right: 0.2rem;
+    color: $dark;
+    border: none;
+    background-color: transparent;
+    padding: 0 0.2rem;
+    cursor: pointer;
   }
 
   .form-social{
@@ -247,7 +246,7 @@
       font-size: $font-size-h2;
     }
   }
-  .form{
+  .form-subscribe{
     color: $dark;
   }
 }
