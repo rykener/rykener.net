@@ -111,15 +111,24 @@
       min-width: 100%;
     }
   }
-  button{
+  button {
     position: absolute;
     font-size: 1.5rem;
-    right: 0.2rem;
+    right: 0;
     color: $dark;
     border: none;
     background-color: transparent;
-    padding: 0 0.2rem;
     cursor: pointer;
+    transition: $global-transition;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 0.4rem;
+    padding: 4px 8px;
+
+    &:hover {
+      background-color: $dark;
+      transition: $global-transition;
+      color: $white;
+    }
   }
 
   .form-social{
