@@ -84,8 +84,7 @@
       }
     }
   }
-
-  .form {
+  .form-subscribe{
     font-size: 16px;
     font-weight: 600;
     display: flex;
@@ -104,8 +103,7 @@
     display: flex;
     position: relative;
     align-items: center;
-    width:250px;
-
+    width: 220px;
     @media only screen and (max-width: $mobile) {
       min-width: 100%;
     }
@@ -117,23 +115,45 @@
     margin: 0;
     border: 0;
     height: 2.2rem;
-    width:250px;
+    width: 220px;
+    padding-right: 2.2rem;
+    color: $text-color;
+		outline: none;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.07);
+
+    &::placeholder {
+			font-weight: 500;
+			color: $text-color;
+			opacity: 0.4;
+		}
+
+    &:focus {
+			border: 1px solid $primary-color;
+			box-shadow: 0px 4px 10px rgba($primary-color, 0.25);
+		}
 
     @media only screen and (max-width: $mobile) {
       min-width: 100%;
     }
   }
-
   button {
     position: absolute;
-    padding: 0.4rem 1rem;
-    color: $white;
-    background-color: $dark;
-    border-radius: 0.4rem;
-    font-size: 15px;
-    font-weight: 600;
-    right: 0.1rem;
-    height: 2.1rem;
+    font-size: 1.5rem;
+    right: 0;
+    color: $dark;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    transition: $global-transition;
+    border-top-right-radius: 0.4rem;
+    border-bottom-right-radius: 0.4rem;
+    padding: 4px 8px;
+
+    &:hover {
+      background-color: $dark;
+      transition: $global-transition;
+      color: $white;
+    }
   }
 
   .form-social {
@@ -265,9 +285,26 @@
       font-size: $font-size-h2;
     }
   }
-
-  .form {
+  .form-subscribe{
     color: $dark;
+  }
+
+  input {
+    background-color: $dark-blue-gray;
+    color: $dark-text-color;
+
+    &::placeholder {
+			color: $dark-text-color;
+		}
+  }
+
+  button {
+    color:$white;
+
+    &:hover {
+      background-color: $white;
+      color: $dark;
+    }
   }
 }
 
