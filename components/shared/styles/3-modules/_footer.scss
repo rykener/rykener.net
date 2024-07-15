@@ -2,57 +2,19 @@
 .footer {
   position: relative;
   margin-top: 44px;
-  padding: 50px 50px 30px;
+  padding: 96px 0 60px;
   overflow: hidden;
   background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 
-  .first-row {
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 3rem;
-  }
+  .social {
+    margin-bottom: 40px;
 
-  .second-row {
-    display: flex;
-    justify-content: space-between;
-    padding: 2rem 0;
-  }
+    .social__item {
+      margin: 0 2px;
+      font-size: 0;
+    }
 
-  .third-row {
-    display: flex;
-    justify-content: end;
-  }
-  .logo-image {
-    display: none;
-  }
-  .logo-image-white {
-    display: block;
-  }
-
-  .language-dropdown {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    margin-right: 1rem;
-    z-index: 1000;
-  }
-
-  .language-dropdown, .dropdown {
-    color: $white;
-  }
-
-  .dropdown {
-    background-color: transparent;
-    border-color: transparent;
-    font-size: 15px;
-    margin-left: 0.5rem;
-    font-weight: 600;
-    cursor: pointer;
-  }
-
-  .social{
-    .social-link {
+    .social__link {
       display: inline-block;
       width: 40px;
       height: 40px;
@@ -63,12 +25,6 @@
       background: $white;
       transition: all .25s;
       will-change: transform;
-      background-color: transparent;
-      color: $white;
-
-      i {
-        font-size: $font-size-h2;
-      }
 
       &:hover {
         transform: scale(0.9);
@@ -84,227 +40,36 @@
       }
     }
   }
-  .form-subscribe{
-    font-size: 16px;
-    font-weight: 600;
-    display: flex;
-    flex-direction: column;
-    gap: 0.4rem;
-    max-height: min-content;
-    color: $white;
-
-    @media only screen and (max-width: $mobile) {
-      align-items: center;
-      min-width: 100%;
-    }
-  }
-
-  form {
-    display: flex;
-    position: relative;
-    align-items: center;
-    width: 220px;
-    @media only screen and (max-width: $mobile) {
-      min-width: 100%;
-    }
-  }
-
-  input {
-    border-radius: 0.4rem;
-    padding: 0.8rem;
-    margin: 0;
-    border: 0;
-    height: 2.2rem;
-    width: 220px;
-    padding-right: 2.2rem;
-    color: $text-color;
-		outline: none;
-    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.07);
-
-    &::placeholder {
-			font-weight: 500;
-			color: $text-color;
-			opacity: 0.4;
-		}
-
-    &:focus {
-			border: 1px solid $primary-color;
-			box-shadow: 0px 4px 10px rgba($primary-color, 0.25);
-		}
-
-    @media only screen and (max-width: $mobile) {
-      min-width: 100%;
-    }
-  }
-  button {
-    position: absolute;
-    font-size: 1.5rem;
-    right: 0;
-    color: $dark;
-    border: none;
-    background-color: transparent;
-    cursor: pointer;
-    transition: $global-transition;
-    border-top-right-radius: 0.4rem;
-    border-bottom-right-radius: 0.4rem;
-    padding: 4px 8px;
-
-    &:hover {
-      background-color: $dark;
-      transition: $global-transition;
-      color: $white;
-    }
-  }
-
-  .form-social {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
-    align-items: end;
-  }
 
   .footer_nav {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    grid-auto-rows: 40%;
+    text-align: center;
 
-    .footer_nav-item {
+    .footer_nav__item {
       display: inline;
-      margin: 0;
-      margin-left: 32px;
-      margin-right: 100px;
+      margin: 0 24px;
       font-size: 0;
     }
 
-    .footer_nav-link {
+    .footer_nav__link {
       font-size: 16px;
       font-weight: 600;
       color: $white;
-      max-height: 10px;
     }
-  }
-
-  option {
-    color: $dark
   }
 
   @media only screen and (max-width: $desktop) {
     padding: 80px 0 60px;
   }
-  
+
   @media only screen and (max-width: $mobile) {
-    padding: 2rem 1.4rem;
     margin-top: 30px;
+     padding: 60px 0;
 
-    .form-social {
-      align-items: start;
-      gap: 0.2rem;
-    }
-
-    .footer_nav {
-      grid-template-columns: 1fr 1fr;
-      .footer_nav-item {
-        margin-top: 0;
-        margin-left: 20px;
-        margin-right: 24px;
-        margin-bottom: 8px;
+     .footer_nav {
+      .footer_nav__item {
+        margin: 0 12px;
       }
-    }
-
-    .second-row {
-      flex-direction: column;
-      margin-bottom: 0;
-      padding-bottom: 0;
-    }
-
-    .third-row {
-      justify-content: center;
-    }
-
-    .social {
-      display: flex;
-      justify-content: center;
-      margin-top: 1rem;
-      .social-item{
-        margin: 0;
-      }
-      .social-list{
-        align-items: start;
-        justify-content: start;
-      }
-      .social-link{
-        padding: 0;
-        margin: 0;
-        margin-right: 0.5rem;
-
-        i {
-          font-size: $font-size-h3;
-        }
-      }
-    }
-  }
-}
-
-.dark .footer {
-  background: linear-gradient(90deg, $dark-primary-color 0%, $dark-secondary-color 167%);
-
-  .footer_nav {
-    .footer_nav-link {
-      color: $dark; 
-    }
-  }
-  .logo-image-white {
-    display: none;
-  }
-
-  .logo-image {
-    display: block;
-  }
-
-  .language-dropdown, .dropdown {
-    color: $dark;
-  }
-
-  option {
-    color: $white;
-    background-color: $dark;
-  }
-  
-  .social .social-link{
-    background-color: transparent;
-    color: $dark;
-
-    &:hover {
-      color: $dark-primary-color;
-    }
-
-    i {
-      font-size: $font-size-h2;
-    }
-  }
-  .form-subscribe{
-    color: $dark;
-  }
-
-  input {
-    background-color: $dark-blue-gray;
-    color: $dark-text-color;
-
-    &::placeholder {
-			color: $dark-text-color;
-		}
-  }
-
-  button {
-    color:$white;
-
-    &:hover {
-      background-color: $white;
-      color: $dark;
-    }
+     }
   }
 }
 
@@ -313,57 +78,19 @@
   margin-top: 20px;
   font-size: 16px;
   line-height: 1.5;
-  text-align: start;
-  color: $white;
-  font-weight: normal;
+  text-align: center;
+  color: rgba($white, 0.7);
 
   p {
     margin: 0;
   }
 
   a {
-    color: $white 
+    font-weight: 500;
+    color: $white;
   }
 
   @media only screen and (max-width: $mobile) {
     font-size: 14px;
-    margin-top: 10px;
-  }
-}
-
-.dark .copyright {
-  color: $dark;
-
-  a {
-    color: $dark; 
-  }
-}
-
-.horizontal-line {
-   border: 0;
-   border-top: 1px solid $border-color;
-   padding: 0;
-   margin: 0;
-}
-
-.dark .horizontal-line {
-  border-top-color: $dark-border-color;
-}
-
-.line-2 {
-  display: none;
-
-  @media only screen and (max-width: $mobile) {
-    display: block;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-  }
-}
-
-.line-3 {
-  display: block;
-
-  @media only screen and (max-width: $mobile) {
-    display: none;
   }
 }

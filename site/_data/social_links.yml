@@ -1,8 +1,8 @@
 #-------------------------------
 # Social Links
-# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
-# Other icons can be found at https://ionicons.com/v4/
+# https://icons.getbootstrap.com
 social:
-- {icon: "instagram", link: "https://instagram.com/lithium.diaries/"}
+- {icon: "Instagram", link: "https://instagram.com/lithium.diaries/"}
+- {icon: "Tiktok", link: "https://www.tiktok.com/@lithium.diaries"}
+- {icon: "Substack", link: "https://dearlithium.substack.com"}
 - {icon: "Github", link: "https://github.com/rykener"}
-# - {icon: "Medium", link: "https://adriguerra.medium.com/"}
