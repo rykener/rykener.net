@@ -1,18 +1,18 @@
 footer-menu-settings:
   menu-items:
-    - title: 'Home'
-      url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Portfolio'
-      url: '/portfolio/'
-    - title: 'Services'
-      url: '/services/'
+    # - title: 'Home'
+    #   url: '/'
+    # - title: 'About'
+    #   url: '/about/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    # - title: 'Portfolio'
+    #   url: '/portfolio/'
+    # - title: 'Services'
+    #   url: '/services/'
     # - title: 'Elements'
     #   url: '/elements/'
 
 
 copyright_text_html: >-
-  <p>&copy;2024 <a href="/">Eleanor Rykener</a> All Rights Reserved.</p>
+  <p>&copy;2024 <a href="/">Rykener</a> All Rights Reserved.</p>
