@@ -8,14 +8,14 @@
           <div class="section-info">
             <div class="section-head">
               <h2 class="section-title">{{ include.title }}</h2>
-              <a class="section-link" href="{{ include.link_url }}">View all <i class="ion ion-md-arrow-forward"></i></a>
+              <!-- <a class="section-link" href="{{ include.link_url }}">View all <i class="ion ion-md-arrow-forward"></i></a> -->
             </div>
             <div class="section-description">{{ include.description_html }}</div>
           </div>
 
           {% if include.show_projects %}
           <div class="row">
-            {% assign sorted = site.projects | reverse %}
+            {% assign sorted = site.projects %}
             {% for project in sorted %}
               {% if forloop.index <= 6 %}
                 {% bookshop project-card project=project %}

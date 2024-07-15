@@ -1,5 +1,5 @@
-logo_image: '/images/Adrian_Guerra.svg' # You can add own logo. For example '/images/logo.png'.
-logo_image_white: '/images/Adrian_Guerra_White.svg'
+# logo_image: '/images/Adrian_Guerra.svg' # You can add own logo. For example '/images/logo.png'.
+# logo_image_white: '/images/Adrian_Guerra_White.svg'
 
 menu-settings:
   menu-items:
@@ -9,9 +9,9 @@ menu-settings:
       url: '/about/'
     # - title: 'Services'
     #   url: '/services/'
-    - title: 'Portfolio'
+    - title: 'Offerings'
       url: '/portfolio/'
-    - title: 'Blog'
+    - title: 'Articles'
       url: '/blog/'
     - title: 'Contact'
       url: '/#contact'

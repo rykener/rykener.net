@@ -6,7 +6,6 @@
 }
 
 .c-header {
-  position: fixed;
   top: 0;
   left: 0;
   width: 100%;
@@ -32,9 +31,9 @@
   }
 }
 
-main {
-  margin-top: var(--header-height);
-}
+// main {
+//   margin-top: var(--header-height);
+// }
 .c-header-inner {
   position: relative;
   display: flex;
