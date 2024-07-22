@@ -1,6 +1,6 @@
 {
-  "name": "adrian-guerra-website",
-  "description": "Adrian Guerra Website",
+  "name": "rykener.net",
+  "description": "Website for Eleanor Rykener",
   "scripts": {
     "bookshop-dev": "bookshop-browser -p 6086 -b ./components",
     "bookshop-hosted": "bookshop-browser -b ./components -o site/js/bookshop-hosted.js",
@@ -9,7 +9,7 @@
     "start": "run-p bookshop-dev jekyll",
     "install-jekyll": "BUNDLE_GEMFILE=site/Gemfile bundle install"
   },
-  "author": "Adrian Guerra",
+  "author": "Eleanor Rykener",
   "license": "MIT",
   "devDependencies": {
     "@bookshop/browser": "^3.8.0",
