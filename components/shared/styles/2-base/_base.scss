@@ -226,7 +226,7 @@ table th {
 }
 
 table tr {
-  background-color: $tr-color;
+  // background-color: $tr-color;
   transition: all .3s ease;
   &:nth-child(even) {
     background-color: transparent;
