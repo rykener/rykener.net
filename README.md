@@ -47,3 +47,9 @@ Run the website:
 ~~~bash
 $ npm start
 ~~~
+
+OR if that doesn't work try
+
+~~~bash
+$ npm run jekyll 
+~~~
