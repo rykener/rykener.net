@@ -4,15 +4,12 @@ footer-menu-settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Portfolio'
+    - title: 'Offerings'
       url: '/portfolio/'
-    - title: 'Services'
-      url: '/services/'
-    # - title: 'Elements'
-    #   url: '/elements/'
-
+    - title: 'Articles'
+      url: '/blog/'
+    - title: 'Contact'
+      url: '/contact'
 
 copyright_text_html: >-
   <p>&copy;2024 <a href="/">Eleanor Rykener</a> All Rights Reserved.</p>
