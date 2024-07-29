@@ -10,7 +10,7 @@ menu-settings:
     # - title: 'Services'
     #   url: '/services/'
     - title: 'Offerings'
-      url: '/portfolio/'
+      url: '/offerings/'
     - title: 'Articles'
       url: '/blog/'
     - title: 'Contact'

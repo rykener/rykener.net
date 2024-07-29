@@ -1,8 +1,8 @@
 ---
-date: 2021-01-09 07:20:35 +0300
+date: 2004-01-09 07:20:35 +0300
 title: Consulting
 subtitle: Working directly with family, friends, and organizations to help them best support the chronically ill. 
-image: '/images/project-8.jpg'
+image: '/images/offering-2.jpg'
 ---
 
 ## Who is this for?

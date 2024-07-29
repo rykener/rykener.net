@@ -1,8 +1,8 @@
 ---
-date: 2021-01-05 05:20:35 +0300
+date: 2003-01-05 05:20:35 +0300
 title: Sick Shit Zoom Group
 subtitle: Free. For queer & trans people with chronic illness.
-image: '/images/project-9.jpg'
+image: '/images/offering-5.jpg'
 ---
 
 ## What's this group about?
@@ -27,3 +27,4 @@ Yeah. I mean, dealing with chronic illness is a heavy thing. This is a space whe
 ## Why only queer and trans people?
 
 I find that groups need to have more than a single thing in common to be able to quickly ground and find safety. Also, my Instagram audience, which is my major source of clients for this business, is primarily QT. I think for cishet people there are going to be a lot more options for chronic illness support groups, so it's important to me to create a space that's just for queers. I accept clients of all identities for my 1-on-1 coaching sessions, so consider taking a look at that offering if you'd like to work together!
+

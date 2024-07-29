@@ -1,8 +1,8 @@
 ---
-date: 2021-01-08 06:20:35 +0300
-title: 1-on-1 Coaching
+date: 2001-01-08 06:20:35 +0300
+title: Chronic Illness Coaching
 subtitle: Meet at a regular cadence to help build acceptance and control over chronic illness
-image: '/images/post-6.jpg'
+image: '/images/offering-3.jpg'
 ---
 
 ## What this is
@@ -25,11 +25,6 @@ Many "coaching" businesses are built from a model that I find largely unethical.
 
 I don't want my clients to strive to live the way that I do. I am not a living example. I am a person who has walked a very specific path and learned some specific things. You aren't here to walk my path. I am here to help you walk (or roll on) your own. 
 
-## What if I don't have chronic illness? How about mental illness?
-
-My practice, first and foremost, caters to people with chronic, physical illness. I will consider taking on clients who deal primarily with mental illness, or who do not identify as having any form of illness, on a case by case basis. 
-
-
 ## Model & Pricing
 
 | **Offering** | **Time**   | **Price** |
@@ -49,7 +44,7 @@ I maintain availability in a variety of tiers. The below table explains what rat
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a very brief way to help us determine if we want to work together. There is no charge for this. This is not a sales call.
 
-**Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics and are not appropriate for my practice. I want you to have as many sessions with me as you'd like, without me locking you into some pre-defined number that says "this is how long it's going to take". You can meet with me as much or as little as you'd like. That being said, please expect to need to meet more than a couple times in order for us to make progress together. Depending on what we're working on I like to see clients ideally at least 10 times, however, this is not a rule. It's all up to you.
+**Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics and are not appropriate for my practice. I want you to have as many sessions with me as you'd like, without me locking you into some predefined number that says "this is how long it's going to take". You can meet with me as much or as little as you want. That being said, please expect to need to meet more than a couple times in order for us to make progress together. Depending on what we're working on I like to see clients at least 10 times, however, this is not a rule. It's all up to you.
 
 
 
