@@ -1,6 +1,6 @@
 ---
 date: 2003-01-05 05:20:35 +0300
-title: Sick Shit Zoom Group
+title: QT Illness Zoom Group
 subtitle: Free. For queer & trans people with chronic illness.
 image: '/images/offering-5.jpg'
 ---

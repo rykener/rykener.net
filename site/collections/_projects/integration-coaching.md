@@ -1,6 +1,6 @@
 ---
 date: 2002-01-08 06:20:35 +0300
-title: Integration Coaching
+title: Integration Coach
 subtitle: Meet at a regular cadence to work on life's challenges together
 image: '/images/offering-6.jpg'
 ---
@@ -13,13 +13,13 @@ We will work together to create systems of resilience in your life. This can loo
 
 I draw heavily from my 10+ years of training in Zen Buddhism to offer a wide range of mindfulness practices and techniques. Mindfulness is not for everyone, and it is not for every situation, but when carefully applied to the right moment it can have a profound impact on our lives.  
 
-We can set goals, build outcomes, and navigate personal growth. One of my jobs is to help you discover, clarify, and align with these goals. I'll help you discover for yourself what the solutions and strategies are for moving forward. I will then stick with you as you integrate into this new way of living, helping with accountability as you feel it's necessary. 
+We can set goals, build outcomes, and navigate personal growth. One of my jobs is to help you discover, clarify, and align with these goals. I'll help you discover for yourself what the solutions and strategies are for moving forward. One of my goals is that you can learn how I work so that you can move forward without me. I will stick with you as you integrate into this new way of living, helping with accountability as you feel it's necessary. 
 
 ## What this isn't
 
-Coaching is not therapy, and I am not a therapist. I do not diagnose or treat mental illness (though I do work with people who have mental illness). Further, while some coaches offer "trauma processing," it is my belief that this work should be done with a licensed therapist. While sometimes past traumas may come up in our work, it cannot be our explicit focus. Some clients find that focusing on new attitudes for the present may help them recontextualize the past. Acknowledging that our personal histories are important and relevant to the present, the past cannot be our focus beyond understanding the now. 
+Coaching is not therapy, and I am not a therapist. I do not diagnose or treat mental illness (though I do work with people who have mental illness). Further, while some coaches offer "trauma processing," it is my belief that this work should be done with a licensed therapist. While sometimes past traumas may come up in our work, it cannot be our explicit focus. Some clients find that focusing on new attitudes for the present may help them recontextualize the past. We will use the past to help us understand the present, but the past cannot be our focus beyond contextualizing the now. Processing the past is work that should be done with a therapist. 
 
-I do not emphasize "positive thinking" as a solution to life's problems. While this approach has it's time and place, it is known to [sometimes make things worse](https://www.sciencedirect.com/science/article/abs/pii/S0272735812000177).
+I do not emphasize "positive thinking" as a solution to life's problems. While this approach has its time and place, it is known to [sometimes make things worse](https://www.sciencedirect.com/science/article/abs/pii/S0272735812000177).
 
 
 ## Model & Pricing

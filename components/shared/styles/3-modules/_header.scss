@@ -14,6 +14,10 @@
     height: 60px;
     z-index: 20;
   }
+
+  a {
+    text-decoration: none;
+  }
 }
 
 .c-header.scrolled {
@@ -343,7 +347,7 @@
     transition: all .25s ease;
     border-radius: 8px;
     box-shadow: 0px 20px 20px rgba($primary-color, 0.07);
-    background-color: $white;
+    background-color: $dark;
 
     .nav-link {
       display: flex;
@@ -416,7 +420,7 @@ option{
 .dropdown{
   background-color: transparent;
   border-color: transparent;
-  color: $dark;
+  color: $white;
   font-size: 15px;
   padding-left: 0.2rem;
   padding-right: 0.1rem;

@@ -5,7 +5,7 @@ footer-menu-settings:
     - title: 'About'
       url: '/about/'
     - title: 'Offerings'
-      url: '/portfolio/'
+      url: '/offerings/'
     - title: 'Articles'
       url: '/blog/'
     - title: 'Contact'

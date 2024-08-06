@@ -3,18 +3,18 @@
 
 menu-settings:
   menu-items:
-    # - title: 'Home'
-    #   url: '/'
     - title: 'About'
-      url: '/about/'
-    # - title: 'Services'
-    #   url: '/services/'
+      submenu:
+        - url: '/about/'
+          title: 'About Me'
+        - url: '/ethics/'
+          title: 'Ethics'
     - title: 'Offerings'
       url: '/offerings/'
     - title: 'Articles'
       url: '/blog/'
     - title: 'Contact'
-      url: '/#contact'
+      url: '/contact'
     # - title: 'Language'
     #   submenu:
     #   - url: ''

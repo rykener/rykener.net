@@ -60,7 +60,8 @@
 
 		&::placeholder {
 			font-weight: 500;
-			color: rgba($text-color, 0.3);
+			color: #ddd;
+			opacity: 1; // firefox
 		}
 
 		&:focus {

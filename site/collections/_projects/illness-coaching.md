@@ -1,6 +1,6 @@
 ---
 date: 2001-01-08 06:20:35 +0300
-title: Chronic Illness Coaching
+title: Disability Doula
 subtitle: Meet at a regular cadence to help build acceptance and control over chronic illness
 image: '/images/offering-3.jpg'
 ---
@@ -14,7 +14,7 @@ You and me in a series of video calls talking about you and your health. We can 
 
 I offer to train all my clients in various mindfulness techniques, including meditation. These practices are not for everyone, but for those who are interested they often find them beneficial. 
 
-**Is this therapy?** No, this isn't therapy, this is a coaching program. They can seem similar, but the primary differences are that we focus on specifically on chronic illness and skills surrounding it as well as the fact that I have undergone a different set of training than therapists. We can talk about problems in your life as they relate to chronic illness, but I'm not here to help you process the trauma from a breakup or when your parents divorced, for example.
+**Is this therapy?** No, this isn't therapy, this is a coaching program. They can seem similar, but the primary differences are that we focus specifically on chronic illness and skills surrounding it as well as the fact that I have undergone a different set of training than therapists. We can talk about problems in your life as they relate to chronic illness, but I'm not here to help you process the trauma from a breakup or when your parents divorced, for example.
 
 
 ## What this isn't
@@ -43,22 +43,5 @@ I maintain availability in a variety of tiers. The below table explains what rat
  | $50                 | Not available        |
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a very brief way to help us determine if we want to work together. There is no charge for this. This is not a sales call.
-
-**Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics and are not appropriate for my practice. I want you to have as many sessions with me as you'd like, without me locking you into some predefined number that says "this is how long it's going to take". You can meet with me as much or as little as you want. That being said, please expect to need to meet more than a couple times in order for us to make progress together. Depending on what we're working on I like to see clients at least 10 times, however, this is not a rule. It's all up to you.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
