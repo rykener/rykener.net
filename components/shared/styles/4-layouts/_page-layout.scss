@@ -296,6 +296,7 @@
 		border-radius: 16px;
 		background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 		transition: transform .2s;
+		text-decoration: none;
 
 		&:hover {
 			transform: translateY(-3px);
