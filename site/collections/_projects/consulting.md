@@ -46,3 +46,9 @@ I maintain availability in a variety of tiers. The below table explains what rat
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a very brief way to help us determine if we want to work together. There is no charge for this. This is not a sales call.
 
 **Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics and are not appropriate for my practice. I want you to have as many sessions with me as you'd like, without me locking you into some predefined number that says "this is how long it's going to take". You can meet with me as much or as little as you want. That being said, please expect to need to meet more than a couple times in order for us to make progress together. It's all up to you.
+
+- **Discrimination:** I do not discriminate based on age, race, gender orientation, ethnicity, sexual orientation, religion, national origin or disability
+- **Honesty:** The statements I make about my practice, written and verbal, are true and accurate to the best of my ability. I don't claim ownership of material that's not mine. I do my best to accurately represent the value of working with me. 
+- **Conflicts:** I attempt to identify conflicts of interest as soon as possible, and take appropriate actions to remedy 
+- **Confidentiality:** As I am not a therapist there is no legal protection of your information and there is nothing that resembles a "privileged" relationship. This being said, I protect your information using modern security practices and I do not disclose information about my clients except under circumstances where I may be required to do so by law or where I am consulting with other industry professionals in order to better serve clients. 
+- **Boundaries:**
