@@ -58,6 +58,10 @@
 
   &-tags-box {
     display: flex;
+
+    a {
+      text-decoration: none;
+    }
   }
 
   &-tag {
@@ -112,6 +116,7 @@
       &:hover {
         color: $text-color;
       }
+      text-decoration: none;
     }
 
     @media only screen and (max-width: $mobile) {

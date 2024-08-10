@@ -18,7 +18,7 @@
           <div class="main-nav-box">
 
             <div class="nav-icon-close">
-              <i class="ion ion-md-close"></i>
+              <i class="bi-x"></i>
             </div>
 
             <div class="nav-title">Menu</div>
@@ -28,7 +28,7 @@
                   {% for item in site.data.navigation.menu-settings.menu-items %}
                     {% if item.submenu %}
                     <li class="nav-item dropdown">
-                      <span class="nav-link dropdown-toggle">{{ item.title }} <i class="ion ion-ios-arrow-down arrow-down"></i></span>
+                      <span class="nav-link dropdown-toggle">{{ item.title }}</span>
                       <div class="dropdown-menu">
                         {% for submenu-item in item.submenu %}
                           <a href="{{ submenu-item.url }}" class="nav-link{% if page.url == submenu-item.url %} active-link{% endif %}">{{submenu-item.title}}</a>
@@ -50,7 +50,7 @@
         </nav>
 
         <div class="nav-button">
-          <i class="nav-icon nav-icon-menu ion ion-md-menu"></i>
+          <i class="nav-icon nav-icon-menu bi-list"></i>
         </div>
 
       </div>

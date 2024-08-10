@@ -50,17 +50,18 @@
 		padding: 22px;
 		font-size: 16px;
 		font-weight: 500;
-		border: 1px solid $border-color;
+		// border: 1px solid $border-color;
 		border-radius: 8px;
 		outline: none;
 		transition: $global-transition;
 		resize: vertical;
 		color: $text-color;
-		background: $background-color-alt;
+		background: #222;
 
 		&::placeholder {
 			font-weight: 500;
-			color: rgba($text-color, 0.3);
+			color: #ddd;
+			opacity: 1; // firefox
 		}
 
 		&:focus {

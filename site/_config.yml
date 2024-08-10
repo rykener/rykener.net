@@ -33,12 +33,12 @@ collections:
     permalink: /:title/
   projects:
     output: true
-    permalink: /portfolio/:slug
+    permalink: /:slug
   testimonials:
     output: false
   posts:
     output: true
-    permalink: /blog/:slug
+    permalink: /:slug
 
 cloudcannon:
   collections:

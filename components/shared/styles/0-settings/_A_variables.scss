@@ -9,8 +9,8 @@ $base-spacing-unit: 10px;
 $global-radius: 16px;
 
 // Transition
-$global-transition: all .35s;
-
+// $global-transition: all .35s;
+$global-transition: all 0s;
 
 // *****************
 // Typography
@@ -24,7 +24,7 @@ $base-line-height: 1.8;
 
 // Headings
 $heading-font-weight: 900;
-$heading-font-family: 'Inter', Helvetica Neue, Helvetica, Arial, sans-serif;
+$heading-font-family: 'Belleza', Helvetica Neue, Helvetica, Arial, sans-serif;
 
 $font-size-h1:  36px;
 $font-size-h2:  28px;
@@ -35,4 +35,4 @@ $font-size-h6:  16px;
 
 
 $heading-line-height: 1.2;
-$heading-letter-spacing: -1px;
+$heading-letter-spacing: 0px;

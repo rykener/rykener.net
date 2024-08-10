@@ -6,6 +6,10 @@
   overflow: hidden;
   background: linear-gradient(90deg, $primary-color 0%, $secondary-color 167%);
 
+  a {
+    text-decoration: none;
+  }
+
   .social {
     margin-bottom: 40px;
 
