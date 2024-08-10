@@ -5,7 +5,7 @@ description: >-
   For when it's *not* going away
 tags:
   - acceptance
-image: /images/coping.jpg
+image: '/images/coping.jpg'
 ---
 
 *Dear Eleanor, I was diagnosed with osteoporosis at 21 and I’m feeling really bad. Any advice on how to manage this?*
