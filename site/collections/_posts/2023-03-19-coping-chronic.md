@@ -14,7 +14,7 @@ image: /images/coping.jpg
 
 Dear Diagnosed,
 
-There’s so much I want to say to you, and there’s so much I wish I understood when I was first sick. The sad reality for me, though, is that I don’t think I can actually communicate the bulk of it. Illness is something that happens to us and, in the end, we are pretty fucking powerless against it. Eat right, take yer meds, do your little stretches, etc. But the body, the body, the body will never be tamed.
+There’s so much I want to say to you, and there’s so much I wish I understood when I was first sick. The sad reality for me, though, is that I don’t think I can actually communicate the bulk of it in a short advice column like this. Illness is something that happens to us and, in the end, we are pretty fucking powerless against it. Eat right, take yer meds, do your little stretches, etc. But the body, the body, the body will never be tamed.
 
 So what are the lessons?
 
