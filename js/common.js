@@ -30,14 +30,14 @@ document.addEventListener("DOMContentLoaded", function () {
   ======================= */
   setTimeout(function(){
     body.classList.add("is-in");
-  },150)
+  },0)
 
   /* ==================================
   // Stop Animations After All Have Run
   ================================== */
   setTimeout(function(){
     body.classList.add("stop-animations");
-  },1500)
+  },0)
 
   /* ======================================
   // Stop Animations During Window Resizing
