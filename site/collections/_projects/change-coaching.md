@@ -41,10 +41,9 @@ I use a tier based rate and availability system. Each client that chooses to pay
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a  brief way to help us determine whether we want to work together. There is no charge for this. This is not a sales call.
 
-**Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics that are not appropriate for my practice. I want you to have as many sessions with me as you’d like, without me locking you into some predefined number that says “this is how long it’s going to take”. You can meet with me as much or as little as you want. That being said, understand that noticeable change takes time and perseverance. We will need to meet more than a couple times in order for us to make true progress together. Depending on what we’re working on I like to see clients at least 10 times, however, this is not a rule. It’s all up to you.
+## Ready to get started?
 
-
-
+[Contact me](/contact) to setup a free, zero obligation intro call. I do not use sales tactics or pressure potential clients into booking.
 
 
 

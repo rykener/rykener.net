@@ -1,6 +1,6 @@
 ---
 date: 2001-01-08 06:20:35 +0300
-title: Disability Doula
+title: Disability Mentorship & Coaching
 subtitle: During regular meetings we will focus on building strategies for living with chronic illness or disability
 image: '/images/offering-3.jpg'
 ---
@@ -66,5 +66,8 @@ I use a tier based rate and availability system. Each client that chooses to pay
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a  brief way to help us determine whether we want to work together. There is no charge for this. This is not a sales call.
 
+## Ready to get started?
+
+[Contact me](/contact) to setup a free, zero obligation intro call. I do not use sales tactics or pressure potential clients into booking.
 
 
