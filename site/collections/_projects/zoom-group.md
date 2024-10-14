@@ -11,16 +11,18 @@ This group is for queer and trans people with health issues who are looking for 
 
 * Introductions
 * Guided meditation
-* Short break
+* Open discussion
 * A talk about a topic relating to being sick
 * Group discussion of the topic
 * Room for discussion about other topics
+
+I tend to approach the talk I give as well as the attitudes I take in this group from a distinctly Zen Buddhist lens. You don't have to be Buddhist to attend, though I like to let people know that that's where my philosophy is arrising from. 
 
 Depending on how many people attend we may use breakout groups at various points in the program. 
 
 ## Sounds like this could get pretty heavy?
 
-Yeah. I mean, dealing with chronic illness is a heavy thing. This is a space where people can address the difficult parts of being sick. We should expect to occasionally hear some pretty gnarly stuff. And that’s okay. We are strong and we have the capacity to hold space for each other. It’s so much easier to love and grow in the presence of others.
+It's actually not. My experience is that as people bring up difficult experiences in their life, that the group itself comes more alive. We see the struggle and humaity in each other and we connect more. 
 
 ## Why only queer and trans people?
 

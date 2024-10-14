@@ -29,14 +29,14 @@ This work, which might be considered “coaching,” is not therapy, and I am no
 | Intro Call   | 10 minutes | Free      |
 | Session      | 50 minutes | $50-$200  |
 
-I use a tier based rate and availability system. Each client that chooses to pay a sponsorship rate ($250-$150) directly allows me to make a slot available for $100 or $50. This means that a certain number of sponsorship slots have to be filled before I can make a sponsored slot available. I ask that potential clients be honest with themselves about what they can comfortably afford so that we can work together to make my services available to lower income folks at less expensive rates. This table shows the current slots and rates available. 
+I use a tier based rate and availability system. Each client that chooses to pay a sponsorship rate ($200-$150) directly allows me to make a slot available for $100 or $50. This means that a certain number of sponsorship slots have to be filled before I can make a sponsored slot available. I ask that potential clients be honest with themselves about what they can comfortably afford so that we can work together to make my services available to lower income folks at less expensive rates. This table shows the current slots and rates available. 
 
  | **Fee Per Session** | **Slots Available?** |
  |=====================|======================|
  | $200                | Available            |
  | $150                | Available            |
  | $100                | Available            |
- | $75                 | Not available
+ | $75                 | Available			  |
  | $50                 | Not available        |
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a  brief way to help us determine whether we want to work together. There is no charge for this. This is not a sales call.

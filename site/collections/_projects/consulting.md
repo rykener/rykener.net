@@ -31,18 +31,20 @@ These are just a few examples of how we can work together. I have a wide range o
 | **Offering** | **Time**   | **Price** |
 |==============|============|===========|
 | Intro Call   | 10 minutes | Free      |
-| Session      | 50 minutes | $100-$300 |
+| Session      | 50 minutes | $100-$250 |
 
-I use a tier based rate and availability system. Each client that chooses to pay a sponsorship rate ($300-$200) directly allows me to make a slot available for $150 or $100. This means that a certain number of sponsorship slots have to be filled before I can make a sponsored slot available. I ask that potential clients be honest with themselves about what they can comfortably afford so that we can work together to make my services available to lower income folks at less expensive rates. This table shows the current slots and rates available. 
+I use a tier based rate and availability system. Each client that chooses to pay a sponsorship rate ($200-$250) directly allows me to make a slot available for $150 or $100. This means that a certain number of sponsorship slots have to be filled before I can make a sponsored slot available. I ask that potential clients be honest with themselves about what they can comfortably afford so that we can work together to make my services available to lower income folks at less expensive rates. This table shows the current slots and rates available. 
 
  | **Fee Per Session** | **Slots Available?** |
  |=====================|======================|
- | $300                | Available            |
  | $250                | Available            |
  | $200                | Available            |
- | $150                | Not available        |
+ | $150                | Available            |
  | $100                | Not available        |
 
 **Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a  brief way to help us determine whether we want to work together. There is no charge for this. This is not a sales call.
 
-**Where are the package deals? The bonus content? The discounts?** I do not offer package deals, bonus content, or discounts. These are marketing tactics that are not appropriate for my practice. I want you to have as many sessions with me as you’d like, without me locking you into some predefined number that says “this is how long it’s going to take”. You can meet with me as much or as little as you want. That being said, understand that noticeable change takes time and perseverance. We will need to meet more than a couple times in order for us to make true progress together. Depending on what we’re working on I like to see clients at least 10 times, however, this is not a rule. It’s all up to you.
+## Ready to get started?
+
+[Contact me](/contact) to setup a free, zero obligation intro call. I do not use sales tactics or pressure potential clients into booking.
+
