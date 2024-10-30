@@ -3,7 +3,9 @@
   <div class="row">
       {% assign sorted = site.projects %}
       {% for project in sorted %}
-        {% bookshop project-card project=project %}
+        {% if forloop.index <= 4 %}
+          {% bookshop project-card project=project %}
+        {% endif %}
       {% endfor %}
   </div>
 </div>

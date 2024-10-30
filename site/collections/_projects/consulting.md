@@ -26,23 +26,10 @@ As a caregiver you may be the point person when helping the person in your life 
 These are just a few examples of how we can work together. I have a wide range of experiences and skills that can be passed on to caregivers in a variety of situations.
 
 
-## Model & Pricing
+## Fees
 
-| **Offering** | **Time**   | **Price** |
-|==============|============|===========|
-| Intro Call   | 10 minutes | Free      |
-| Session      | 50 minutes | $100-$250 |
+Takes a look at the [fee structre page here](/fees).
 
-I use a tier based rate and availability system. Each client that chooses to pay a sponsorship rate ($200-$250) directly allows me to make a slot available for $150 or $100. This means that a certain number of sponsorship slots have to be filled before I can make a sponsored slot available. I ask that potential clients be honest with themselves about what they can comfortably afford so that we can work together to make my services available to lower income folks at less expensive rates. This table shows the current slots and rates available. 
-
- | **Fee Per Session** | **Slots Available?** |
- |=====================|======================|
- | $250                | Available            |
- | $200                | Available            |
- | $150                | Available            |
- | $100                | Not available        |
-
-**Intro call?** A quick phone call where we can check in about wants, needs, and goals. This is a  brief way to help us determine whether we want to work together. There is no charge for this. This is not a sales call.
 
 ## Ready to get started?
 

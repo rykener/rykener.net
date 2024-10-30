@@ -17,7 +17,7 @@
           <div class="row">
             {% assign sorted = site.projects %}
             {% for project in site.projects %}
-              {% if forloop.index <= 6 %}
+              {% if forloop.index <= 4 %}
                 {% bookshop project-card project=project %}
               {% endif %}
             {% endfor %}
