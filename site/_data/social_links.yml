@@ -2,6 +2,6 @@
 # Social Links
 # https://icons.getbootstrap.com
 social:
-- {icon: "Instagram", link: "https://instagram.com/lithium.diaries/"}
+# - {icon: "Instagram", link: "https://instagram.com/lithium.diaries/"}
 # - {icon: "Tiktok", link: "https://www.tiktok.com/@lithium.diaries"}
-- {icon: "Substack", link: "https://dearlithium.substack.com"}
+# - {icon: "Substack", link: "https://dearlithium.substack.com"}

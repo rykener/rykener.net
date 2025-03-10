@@ -2,13 +2,7 @@ footer-menu-settings:
   menu-items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Offerings'
-      url: '/offerings/'
-    - title: 'Articles'
-      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
 copyright_text_html: >-
-  <p>&copy;2024 <a href="/">Rykener</a> All Rights Reserved.</p>
+  <p>&copy;2025 <a href="/">Rykener</a> All Rights Reserved.</p>
