@@ -1,17 +1,4 @@
-# logo_image: '/images/Adrian_Guerra.svg' # You can add own logo. For example '/images/logo.png'.
-# logo_image_white: '/images/Adrian_Guerra_White.svg'
-
 menu-settings:
   menu-items:
-    - title: 'About'
-      submenu:
-        - url: '/about/'
-          title: 'About Me'
-        - url: '/ethics/'
-          title: 'Ethics'
-    - title: 'Offerings'
-      url: '/offerings/'
-    - title: 'Articles'
-      url: '/blog/'
     - title: 'Contact'
       url: '/contact'
